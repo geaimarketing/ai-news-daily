@@ -1,0 +1,1790 @@
+{
+    "_說明":  "已發布新聞索引，供跨日去重使用。每次產製後把當期所有條目追加進 items，並刪除超過 30 天的舊紀錄以免無限增長。key 為事件識別碼，格式：主體-事件核心（小寫、連字號）。",
+    "items":  [
+                  {
+                      "date":  "2026-09-29",
+                      "topic":  1,
+                      "key":  "valley-bluevine-acquisition",
+                      "title":  "銀行反過來買下 FinTech：Valley National 以 3.4 億美元收購 Bluevine，要的是 21 億美元的低成本存款",
+                      "url":  "https://www.bankingdive.com/news/valley-national-bank-acquire-fintech-bluevine-340m-small-business-banking/831503/"
+                  },
+                  {
+                      "date":  "2026-09-29",
+                      "topic":  1,
+                      "key":  "swift-alias-cross-border-consumer",
+                      "title":  "用手機號碼就能匯款出國：Swift 要把 Pix、Bizum、PayID 的使用體驗接上跨境網路",
+                      "url":  "https://www.pymnts.com/news/cross-border-payments/2026/swift-wants-to-make-x-border-payments-as-easy-as-domestic-ones/"
+                  },
+                  {
+                      "date":  "2026-09-29",
+                      "topic":  1,
+                      "key":  "coinbase-dco-approval",
+                      "title":  "Coinbase 拿到 CFTC 的清算所執照：上架、經紀、清算三段第一次全部自己來",
+                      "url":  "https://www.theblock.co/news/business/2026-09-28-coinbase-dco-approval-417105"
+                  },
+                  {
+                      "date":  "2026-09-29",
+                      "topic":  1,
+                      "key":  "bitget-388m-exploit",
+                      "title":  "今年最大加密竊案的解剖：盜走 Bitget 3.88 億美元之前，攻擊者先用兩筆小額轉帳試探風控",
+                      "url":  "https://www.theblock.co/news/regulation/2026-09-28-bitget-attacker-tested-risk-controls-small-transfers-388-million-theft-ceo-says-417045"
+                  },
+                  {
+                      "date":  "2026-09-29",
+                      "topic":  2,
+                      "key":  "us-stocks-yield-524-0928",
+                      "title":  "10 年期殖利率升到 5.24%、創 2007 年以來新高：美股三大指數齊跌，NVIDIA 逆勢收紅",
+                      "url":  "https://finance.yahoo.com/markets/live/stock-market-today-monday-september-28-dow-sp-500-nasdaq-080420627.html"
+                  },
+                  {
+                      "date":  "2026-09-29",
+                      "topic":  2,
+                      "key":  "nvidia-150b-buyback",
+                      "title":  "史上最大的庫藏股加碼：NVIDIA 再授權 1,500 億美元，剩餘額度拉到 2,350 億",
+                      "url":  "https://nvidianews.nvidia.com/news/nvidia-announces-a-150-billion-share-repurchase-authorization-increase"
+                  },
+                  {
+                      "date":  "2026-09-29",
+                      "topic":  2,
+                      "key":  "amd-world-labs-acquisition",
+                      "title":  "AMD 以 82 億美元全股票收購李飛飛的 World Labs：晶片商開始自己買「世界模型」",
+                      "url":  "https://fortune.com/2026/09/28/amd-acquires-world-labs-startup-fei-fei-li-8-2-billion/"
+                  },
+                  {
+                      "date":  "2026-09-29",
+                      "topic":  2,
+                      "key":  "meta-enterprise-platform-desai",
+                      "title":  "AI 人才戰的市值代價：Meta 挖走 MongoDB 執行長，MongoDB 單日重挫近兩成",
+                      "url":  "https://finance.yahoo.com/markets/stocks/articles/mdb-stock-plunges-ceo-leaves-161341641.html"
+                  },
+                  {
+                      "date":  "2026-09-29",
+                      "topic":  2,
+                      "key":  "micron-baird-target-1520",
+                      "title":  "財報前兩天，Baird 把 Micron 目標價從 1,280 拉到 1,520 美元：理由是代理式 AI 吃掉的記憶體",
+                      "url":  "https://www.ibtimes.com/microns-279-rally-may-not-over-baird-says-agentic-ai-could-drive-chip-stock-new-heights-3807964"
+                  },
+                  {
+                      "date":  "2026-09-29",
+                      "topic":  3,
+                      "key":  "openai-astra-6-1-shelved",
+                      "title":  "OpenAI 臨時撤下 Astra 6.1：原本幾天內就要發布，卻因「欺騙程度更高」被喊停",
+                      "url":  "https://techcrunch.com/2026/09/28/openai-reportedly-ditches-model-over-safety-concerns/"
+                  },
+                  {
+                      "date":  "2026-09-29",
+                      "topic":  3,
+                      "key":  "nvidia-open-agent-safety-platform",
+                      "title":  "NVIDIA 推出 AI 代理安全平台：用獨立硬體看守代理，越界毫秒內隔離——Anthropic、Microsoft 加入，OpenAI 缺席",
+                      "url":  "https://techcrunch.com/2026/09/28/nvidia-launches-new-platform-for-reining-in-rogue-ai-agents/"
+                  },
+                  {
+                      "date":  "2026-09-29",
+                      "topic":  3,
+                      "key":  "anthropic-sonnet-5-5-release",
+                      "title":  "Anthropic 發布 Sonnet 5.5：快 30%、更省 token，也是第一個套用最高等級資安防護的 Sonnet",
+                      "url":  "https://techcrunch.com/2026/09/28/anthropic-releases-sonnet-5-5-which-it-calls-a-significantly-cheaper-faster-work-partner/"
+                  },
+                  {
+                      "date":  "2026-09-29",
+                      "topic":  3,
+                      "key":  "meta-enterprise-platform-desai",
+                      "title":  "Meta 成立「Meta Enterprise Platform」：把 Muse 賣進企業，並請來 MongoDB 執行長掌舵",
+                      "url":  "https://techcrunch.com/2026/09/28/meta-launches-enterprise-ai-platform-hires-mongodb-ceo-to-lead-new-initiative/"
+                  },
+                  {
+                      "date":  "2026-09-29",
+                      "topic":  3,
+                      "key":  "google-gems-to-skills",
+                      "title":  "Google 收掉 Gemini 的 Gems，全部改成「skills」：自訂助理的時代讓位給全能代理",
+                      "url":  "https://techcrunch.com/2026/09/28/google-is-killing-off-geminis-gems-in-favor-of-skills/"
+                  },
+                  {
+                      "date":  "2026-09-23",
+                      "topic":  1,
+                      "key":  "sofi-mastercard-stablecoin-settlement",
+                      "title":  "穩定幣第一次真的接上卡片清算：SoFi 把整個 250 億美元卡計畫搬到 Mastercard 網路上結算",
+                      "url":  "https://www.pymnts.com/cryptocurrency/2026/mastercard-sofi-bring-stablecoin-settlement-cards-step-one-broader-rollout/"
+                  },
+                  {
+                      "date":  "2026-09-23",
+                      "topic":  1,
+                      "key":  "six-banks-agentic-commerce-audit-trail",
+                      "title":  "六家銀行聯手對代理式商務開條件：從「你叫它買什麼」到「它最後買了什麼」，整條軌跡都要留證",
+                      "url":  "https://www.pymnts.com/news/artificial-intelligence/2026/banks-want-audit-trail-from-ai-shopping-instructions-payment-outcome/"
+                  },
+                  {
+                      "date":  "2026-09-23",
+                      "topic":  1,
+                      "key":  "meta-muse-agent-launch",
+                      "title":  "Amazon 把 Muse 擋在門外的隔天，PayPal 選擇把門打開：全球商戶的結帳權交給了 Meta 的代理（後續）",
+                      "url":  "https://www.pymnts.com/news/artificial-intelligence/2026/meta-adds-paypal-muse-ai-assistant-global-checkout/"
+                  },
+                  {
+                      "date":  "2026-09-23",
+                      "topic":  1,
+                      "key":  "bitcoin-etf-record-daily-inflow-0921",
+                      "title":  "比特幣現貨 ETF 單日淨流入 9.99 億美元，創 11 個月新高——而這次連以太幣 ETF 都跟上了",
+                      "url":  "https://www.theblock.co/news/markets/2026-09-22-spot-bitcoin-etfs-1-billion-daily-inflow-416005"
+                  },
+                  {
+                      "date":  "2026-09-23",
+                      "topic":  1,
+                      "key":  "reap-local-currency-stablecoins",
+                      "title":  "99% 的穩定幣都是美元計價，而 Reap 打算先發一枚墨西哥披索的：「Visa 讓穩定幣能結算，我們讓它能花」",
+                      "url":  "https://www.coindesk.com/business/2026/09/22/visa-partner-reap-eyes-local-currency-stablecoins-in-several-countries-for-24-7-onchain-fx"
+                  },
+                  {
+                      "date":  "2026-09-23",
+                      "topic":  2,
+                      "key":  "us-stocks-record-oil-drop-0922",
+                      "title":  "那斯達克連兩天收盤新高，但道瓊反向收黑：這波漲勢的燃料是油價，不是財報",
+                      "url":  "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-september-22-nasdaq-dow-sp-500-080625961.html"
+                  },
+                  {
+                      "date":  "2026-09-23",
+                      "topic":  2,
+                      "key":  "alibaba-zhenwu-v900-20gw",
+                      "title":  "川習會前夕，阿里巴巴亮出「中國最強 AI 晶片」：性能三倍，2032 年機房要衝到 20GW 以上",
+                      "url":  "https://www.cnbc.com/2026/09/22/alibaba-ai-alibabacloud-zhenwu-v900-.html"
+                  },
+                  {
+                      "date":  "2026-09-23",
+                      "topic":  2,
+                      "key":  "sandisk-rosenblatt-initiation",
+                      "title":  "SanDisk 今年已漲 677%，而 Rosenblatt 現在才開始追蹤它：目標價 2,400 美元",
+                      "url":  "https://247wallst.com/investing/2026/09/22/sandisk-jumps-6-as-rosenblatt-starts-coverage-at-buy-with-2400-target-micron-rises-3-seagate-ticks-up/"
+                  },
+                  {
+                      "date":  "2026-09-23",
+                      "topic":  2,
+                      "key":  "accelevation-ipo-720m",
+                      "title":  "賣散熱與配電的公司要掛牌了：Accelevation 申請募資 7.2 億美元，半年營收從 1.59 億跳到 4.38 億",
+                      "url":  "https://ca.finance.yahoo.com/news/data-center-firm-accelevation-backer-112016784.html"
+                  },
+                  {
+                      "date":  "2026-09-23",
+                      "topic":  3,
+                      "key":  "anthropic-opus-5-5-release",
+                      "title":  "Anthropic 發布 Opus 5.5：比更大的 Fable 還強，而且輸出每百萬 token 從 25 降到 20 美元",
+                      "url":  "https://techcrunch.com/2026/09/22/anthropic-releases-opus-5-5-with-lower-prices-and-fable-level-performance/"
+                  },
+                  {
+                      "date":  "2026-09-23",
+                      "topic":  3,
+                      "key":  "openai-gpt6-sol-luna",
+                      "title":  "同一天，OpenAI 端出 GPT-6 Sol 與 Luna：錯誤率砍半、價格只有 5.6 系列的一半",
+                      "url":  "https://techcrunch.com/2026/09/22/openai-launches-gpt-6-sol-and-luna/"
+                  },
+                  {
+                      "date":  "2026-09-23",
+                      "topic":  3,
+                      "key":  "un-security-council-ai-briefing",
+                      "title":  "聯合國安理會把 AI 實驗室請進會議室：Altman 與 Amodei 要上台，而中國的 DeepSeek 也在受邀名單上",
+                      "url":  "https://www.cnbc.com/2026/09/22/altman-amodei-unga-ai-safety.html"
+                  },
+                  {
+                      "date":  "2026-09-23",
+                      "topic":  3,
+                      "key":  "trump-ai-rebrand-ai-force",
+                      "title":  "話題：川普在聯合國大會宣布答案——AI 之後一律改稱「super intelligence」（後續）",
+                      "url":  "https://www.axios.com/2026/09/22/trump-ai-super-intelligence-rebrand"
+                  },
+                  {
+                      "date":  "2026-09-23",
+                      "topic":  3,
+                      "key":  "palo-alto-unit42-frontier-ai-defense",
+                      "title":  "入侵一家公司只要不到 10 小時，所以防守方把 Mythos 5 與 GPT-5.6-Cyber 一起買了下來",
+                      "url":  "https://www.paloaltonetworks.com/blog/2026/09/introducing-unit-42-continuous-frontier-ai-defense/"
+                  },
+                  {
+                      "date":  "2026-09-22",
+                      "topic":  1,
+                      "key":  "sharetec-data-center-cu-outage",
+                      "title":  "一台冷氣壞掉，14 個州的 23 家信用合作社同時斷線——而監理機關連查這家供應商的權力都沒有",
+                      "url":  "https://www.americanbanker.com/news/overheated-data-center-knocked-23-credit-unions-offline"
+                  },
+                  {
+                      "date":  "2026-09-22",
+                      "topic":  1,
+                      "key":  "coinbase-ipo-allocations-oura",
+                      "title":  "Coinbase 把 IPO 配售開給美國散戶：第一檔是智慧戒指 Oura，「萬物交易所」再往一級市場跨一步",
+                      "url":  "https://www.theblock.co/news/business/2026-09-21-coinbase-opens-ipo-allocations-us-customers-starting-oura-415942"
+                  },
+                  {
+                      "date":  "2026-09-22",
+                      "topic":  1,
+                      "key":  "cftc-frontier-forum-agentic-finance",
+                      "title":  "CFTC 開辦「Frontier Forum」系列論壇，第一場就談 AI 代理與代理式金融",
+                      "url":  "https://www.pymnts.com/news/artificial-intelligence/2026/cftc-examines-agentic-ais-growing-role-in-finance"
+                  },
+                  {
+                      "date":  "2026-09-22",
+                      "topic":  1,
+                      "key":  "bitcoin-short-squeeze-85k-0921",
+                      "title":  "空單被軋出 6.48 億美元：比特幣衝破 9 月高點、逼近 85,000 美元",
+                      "url":  "https://www.coindesk.com/markets/2026/09/21/bitcoin-hits-usd85-000-as-short-squeeze-forces-out-usd648-million-of-bearish-bets"
+                  },
+                  {
+                      "date":  "2026-09-22",
+                      "topic":  1,
+                      "key":  "kastle-series-a-24m",
+                      "title":  "不換核心系統也能用 AI 代理：放款業者的 AI 平台 Kastle 拿下 Insight Partners 領投的 2,400 萬美元",
+                      "url":  "https://www.pymnts.com/news/artificial-intelligence/2026/kastle-raises-24-million-to-help-lenders-adopt-agentic-ai"
+                  },
+                  {
+                      "date":  "2026-09-22",
+                      "topic":  2,
+                      "key":  "us-stocks-cpu-rally-amd-1t-0921",
+                      "title":  "那斯達克創 6 月以來首個收盤新高，AMD 盤中站上 1 兆美元：這次領漲的是 CPU，不是 NVIDIA",
+                      "url":  "https://finance.yahoo.com/markets/live/stock-market-today-monday-september-21-dow-sp-500-nasdaq-080214605.html"
+                  },
+                  {
+                      "date":  "2026-09-22",
+                      "topic":  2,
+                      "key":  "meta-stock-muse-wells-fargo",
+                      "title":  "Meta 單日大漲 11.4%：Muse 上架不到兩週，Wells Fargo 把目標價從 640 拉到 796 美元",
+                      "url":  "https://www.fool.com/coverage/stock-market-today/2026/09/21/stock-market-today-sept-21-meta-surges-on-excitement-over-muse-personal-ai-agent/"
+                  },
+                  {
+                      "date":  "2026-09-22",
+                      "topic":  2,
+                      "key":  "softbank-junk-bond-openai",
+                      "title":  "為了押 OpenAI，SoftBank 端出史上最大規模之一的垃圾債：逾 110 億美元，9 月 24 日定價",
+                      "url":  "https://en.sedaily.com/international/2026/09/21/softbank-to-sell-11-billion-in-junk-bonds-to-fund-openai-bet"
+                  },
+                  {
+                      "date":  "2026-09-22",
+                      "topic":  2,
+                      "key":  "us-it-investment-exceeds-housing",
+                      "title":  "美國花在資料中心與 IT 設備的錢，首度超過蓋房子：明年超大規模業者資本支出上看 1.3 兆美元",
+                      "url":  "https://fortune.com/2026/09/21/the-outlook-ai-spending/"
+                  },
+                  {
+                      "date":  "2026-09-22",
+                      "topic":  3,
+                      "key":  "meta-muse-agent-launch",
+                      "title":  "Amazon 把 Meta 的 Muse 擋在門外：「未經授權的 AI 代理」——代理購物的第一場正面衝突（後續）",
+                      "url":  "https://www.geekwire.com/2026/amazon-blocks-metas-muse-ai-assistant-in-new-standoff-over-agentic-shopping/"
+                  },
+                  {
+                      "date":  "2026-09-22",
+                      "topic":  3,
+                      "key":  "openai-rsi-global-standards",
+                      "title":  "OpenAI 要美國帶頭訂「遞迴自我改進」的全球標準：要有人類審查觸發點，但不要變成發照制度",
+                      "url":  "https://gizmodo.com/openai-calls-for-us-to-lead-global-ai-standards-will-china-be-okay-with-that-2000815022"
+                  },
+                  {
+                      "date":  "2026-09-22",
+                      "topic":  3,
+                      "key":  "us-china-ai-incident-notification",
+                      "title":  "話題：川習會前夕，美中談出一條「AI 事件通報」機制的雛形",
+                      "url":  "https://www.semafor.com/article/09/21/2026/us-chinese-officials-talk-trade-ai-ahead-of-xi-visit"
+                  },
+                  {
+                      "date":  "2026-09-22",
+                      "topic":  3,
+                      "key":  "openai-navier-stokes-proof",
+                      "title":  "OpenAI 模型再解逾 100 道未解數學題，隨即在普林斯頓高等研究院成立數學顧問小組——但它管不到研究的速度（後續）",
+                      "url":  "https://techcrunch.com/2026/09/21/openai-forms-math-advisory-group-as-its-ai-resolves-more-than-100-open-problems/"
+                  },
+                  {
+                      "date":  "2026-09-22",
+                      "topic":  3,
+                      "key":  "google-googlebook-preorder",
+                      "title":  "Google 的 Googlebook 開放預購：899 美元、跑 Android，押注你會為了 Gemini 換一台新筆電",
+                      "url":  "https://techcrunch.com/2026/09/21/googles-899-googlebook-is-a-bet-that-youll-buy-a-new-laptop-for-gemini/"
+                  },
+                  {
+                      "date":  "2026-09-21",
+                      "topic":  1,
+                      "key":  "polymarket-wsj-fraud-compliance",
+                      "title":  "Polymarket 遭遇 1,000 萬美元盜刷攻擊，而《華爾街日報》挖出的是執行長那句「先衝成長，罰款以後再說」",
+                      "url":  "https://www.theblock.co/news/regulation/2026-09-20-polymarket-faced-10-million-fraud-attempt-as-its-ceo-pushed-growth-over-compliance-concerns-wsj-415875"
+                  },
+                  {
+                      "date":  "2026-09-21",
+                      "topic":  1,
+                      "key":  "visa-crossmint-memecoin-mcc",
+                      "title":  "刷卡買迷因幣還能拿回饋？Visa 要關掉這個被歸類成「數位媒體」的漏洞",
+                      "url":  "https://www.theblock.co/news/regulation/2026-09-19-visa-to-close-crossmint-memecoin-rewards-loophole-following-the-block-investigation-report-415866"
+                  },
+                  {
+                      "date":  "2026-09-21",
+                      "topic":  1,
+                      "key":  "ant-account-for-agent",
+                      "title":  "螞蟻國際直接給 AI 代理開了一個帳戶：用「認識你的代理」智能合約管，單筆最小可以付 0.000001 美元",
+                      "url":  "https://www.pymnts.com/news/artificial-intelligence/2026/ai-agents-are-getting-their-own-bank-accounts/"
+                  },
+                  {
+                      "date":  "2026-09-21",
+                      "topic":  1,
+                      "key":  "bitcoin-etf-flows-week-0918",
+                      "title":  "比特幣現貨 ETF 靠週五最後一天的 4.33 億美元，把整週從負值拉回 620 萬",
+                      "url":  "https://www.theblock.co/news/markets/2026-09-19-bitcoin-etfs-eke-out-positive-week-with-433-million-friday-inflow-as-ether-funds-snap-four-week-inflow-streak-415871"
+                  },
+                  {
+                      "date":  "2026-09-21",
+                      "topic":  1,
+                      "key":  "zetachain-shutdown-solana",
+                      "title":  "ZetaChain 用 99.4% 的贊成票決定關掉自己的 L1：代幣搬去 Solana，團隊改去做 AI",
+                      "url":  "https://www.theblock.co/news/defi/2026-09-20-zetachain-votes-to-shut-down-layer-1-network-and-move-zeta-to-solana-415878"
+                  },
+                  {
+                      "date":  "2026-09-21",
+                      "topic":  2,
+                      "key":  "us-stocks-week-0918",
+                      "title":  "升息週收尾：三大指數只有那斯達克週線收紅，道瓊三連黑、寫下 3 月以來最差一週",
+                      "url":  "https://finance.yahoo.com/markets/live/stock-market-today-friday-september-18-dow-sp-500-nasdaq-080504071.html"
+                  },
+                  {
+                      "date":  "2026-09-21",
+                      "topic":  2,
+                      "key":  "nscale-pre-ipo-3-5b",
+                      "title":  "Nscale 正式遞件申請紐交所掛牌，代號 NSCL：半年營收放大 13 倍，同期虧掉 10.2 億美元（後續）",
+                      "url":  "https://www.nscale.com/press-releases/nscale-files-initial-public-offering"
+                  },
+                  {
+                      "date":  "2026-09-21",
+                      "topic":  2,
+                      "key":  "anthropic-openai-small-datacenters",
+                      "title":  "大機房蓋不完，Anthropic 與 OpenAI 改去搶 20 到 30MW 的小案子",
+                      "url":  "https://www.cnbc.com/2026/09/18/anthropic-openai-small-ai-data-center-deals.html"
+                  },
+                  {
+                      "date":  "2026-09-21",
+                      "topic":  2,
+                      "key":  "manus-4b-round",
+                      "title":  "被北京擋下的那樁 20 億美元併購案之後，Manus 以 40 億估值洽募 5 億美元——翻了一倍",
+                      "url":  "https://techcrunch.com/2026/09/18/manus-seeks-4b-valuation-in-new-500m-fundraise-as-it-resumes-independent-ops/"
+                  },
+                  {
+                      "date":  "2026-09-21",
+                      "topic":  2,
+                      "key":  "micron-q4-fy2026-preview",
+                      "title":  "下一個要交卷的是記憶體：市場替 Micron 9 月 30 日的財報估出年增 350% 的單季營收",
+                      "url":  "https://www.fool.com/investing/2026/09/20/should-you-buy-micron-stock-before-next-earnings/"
+                  },
+                  {
+                      "date":  "2026-09-21",
+                      "topic":  3,
+                      "key":  "newsom-ai-kill-switch-eo",
+                      "title":  "加州不等聯邦了：Newsom 簽下行政命令，要研議替前沿模型裝上「緊急關閉開關」",
+                      "url":  "https://www.gov.ca.gov/2026/09/18/governor-newsom-issues-executive-order-to-accelerate-independent-oversight-and-advance-the-creation-of-an-ai-kill-switch/"
+                  },
+                  {
+                      "date":  "2026-09-21",
+                      "topic":  3,
+                      "key":  "gemini-autonomous-hacks",
+                      "title":  "換 Google 了：Gemini 自主入侵三家公司的系統，而它是被《華爾街日報》問到才承認的",
+                      "url":  "https://techcrunch.com/2026/09/19/googles-gemini-is-the-latest-ai-model-to-hack-other-companies/"
+                  },
+                  {
+                      "date":  "2026-09-21",
+                      "topic":  3,
+                      "key":  "anthropic-accenture-evaluators",
+                      "title":  "Amodei 承諾的第三方評估者有名字了：Accenture 派人進駐 Anthropic，雙方各投至少 10 億美元（後續）",
+                      "url":  "https://newsroom.accenture.com/news/2026/accenture-and-anthropic-partner-to-build-team-of-embedded-evaluators-at-anthropic"
+                  },
+                  {
+                      "date":  "2026-09-21",
+                      "topic":  3,
+                      "key":  "trump-ai-rebrand-ai-force",
+                      "title":  "話題：川普說「人工智慧」這名字取得不好，要辦投票改名，順便成立一支「AI Force」",
+                      "url":  "https://techcrunch.com/2026/09/19/trump-suggests-rebranding-ai-with-a-new-name-says-hes-also-creating-an-ai-force/"
+                  },
+                  {
+                      "date":  "2026-09-21",
+                      "topic":  3,
+                      "key":  "vals-ai-benchmarking-series-a",
+                      "title":  "模型跑分誰說了算：a16z 押 4,000 萬美元在 Vals 身上，要它當 AI 評測的黃金標準",
+                      "url":  "https://techcrunch.com/2026/09/19/vals-backed-by-andreessen-horowitz-is-looking-to-become-the-gold-standard-for-ai-benchmarking/"
+                  },
+                  {
+                      "date":  "2026-09-18",
+                      "topic":  1,
+                      "key":  "sec-cftc-rulemaking-post-clarity",
+                      "title":  "SEC 端出代幣化股票的「創新豁免」：鏈上交易場所免登記為交易所，一張為期五年的許可證（後續）",
+                      "url":  "https://www.sec.gov/newsroom/press-releases/2026-90-sec-issues-innovation-exemption-facilitate-trading-tokenized-nms-stock-request-comment"
+                  },
+                  {
+                      "date":  "2026-09-18",
+                      "topic":  1,
+                      "key":  "sec-cftc-rulemaking-post-clarity",
+                      "title":  "幾小時後 CFTC 跟上：不碰客戶資金的交易軟體，不必再登記成介紹經紀商（後續）",
+                      "url":  "https://www.pymnts.com/legal/2026/cftc-frees-non-custodial-software-developers-from-broker-rules/"
+                  },
+                  {
+                      "date":  "2026-09-18",
+                      "topic":  1,
+                      "key":  "revolut-dual-listing-ny-london",
+                      "title":  "Revolut 首度證實考慮倫敦、紐約雙重掛牌：估值 1,150 億美元，它更想要的是美國的散戶",
+                      "url":  "https://www.rte.ie/news/business/2026/0917/1591960-revolut-ipo/"
+                  },
+                  {
+                      "date":  "2026-09-18",
+                      "topic":  1,
+                      "key":  "fed-payment-access-eo-deadline",
+                      "title":  "Fed 的 120 天大限過了：非銀行能不能直接接上央行支付系統，報告交了沒都沒人知道",
+                      "url":  "https://www.pymnts.com/legal/bank-regulation/2026/fed-deadline-passes-as-payment-access-debate-continues/"
+                  },
+                  {
+                      "date":  "2026-09-18",
+                      "topic":  2,
+                      "key":  "us-stocks-post-fomc-rebound-0917",
+                      "title":  "升息隔天美股反彈，那斯達克漲約 1.7%：撐盤的是油價回落，點火的是 Intel 執行長一句「記憶體短缺會更糟」",
+                      "url":  "https://finance.yahoo.com/markets/live/stock-market-today-thursday-september-17-dow-sp-500-nasdaq-oil-fed-081248626.html"
+                  },
+                  {
+                      "date":  "2026-09-18",
+                      "topic":  2,
+                      "key":  "nvidia-chip-sales-double-2027",
+                      "title":  "黃仁勳在蘇格蘭喊出「明年晶片賣兩倍」：NVIDIA 漲 2.54%，這是繼 70% 成長指引後的再一次加碼",
+                      "url":  "https://www.cnbc.com/2026/09/17/nvidia-huang-ai-chip-guidance.html"
+                  },
+                  {
+                      "date":  "2026-09-18",
+                      "topic":  2,
+                      "key":  "crusoe-series-f-3-9b",
+                      "title":  "Crusoe 募得 39 億美元、估值 309 億：十個月前它才值 100 億，現在正在跟高盛、大摩談 IPO",
+                      "url":  "https://techcrunch.com/2026/09/17/crusoe-raises-3-9b-to-build-massive-data-centers-and-small-modular-ai-factories/"
+                  },
+                  {
+                      "date":  "2026-09-18",
+                      "topic":  2,
+                      "key":  "tempus-ai-reimbursement-rally",
+                      "title":  "Tempus AI 單日大漲 14%、一週漲三成：市場開始替 AI 醫療診斷的「給付價格」定價",
+                      "url":  "https://247wallst.com/investing/2026/09/17/tempus-ai-is-ripping-30-higher-this-week-after-morgan-stanley-boosts-revenue-outlook/"
+                  },
+                  {
+                      "date":  "2026-09-18",
+                      "topic":  3,
+                      "key":  "king-charles-ai-summit-dumfries",
+                      "title":  "話題：英王把 AI 領袖請到蘇格蘭，問了一句「難道不該在太遲之前先有足夠的控制手段？」",
+                      "url":  "https://fortune.com/2026/09/17/king-charles-ai-existential-dangers-control/"
+                  },
+                  {
+                      "date":  "2026-09-18",
+                      "topic":  3,
+                      "key":  "stanford-paper2agent-nature",
+                      "title":  "把論文變成會做事的代理：史丹佛 Paper2Agent 登上《Nature》，100 篇計算生物論文轉成功 74 篇",
+                      "url":  "https://www.theregister.com/ai-and-ml/2026/09/17/scientific-papers-become-agentic-chatbots-with-new-tool/5297276"
+                  },
+                  {
+                      "date":  "2026-09-18",
+                      "topic":  3,
+                      "key":  "meta-muse-agent-launch",
+                      "title":  "AI 代理開始替你打電話：Meta Muse 與估值上看 100 億的 Instinct 同一天加上通話功能（後續）",
+                      "url":  "https://techcrunch.com/2026/09/17/rival-ai-agents-instinct-and-metas-muse-both-add-the-ability-to-make-calls/"
+                  },
+                  {
+                      "date":  "2026-09-18",
+                      "topic":  3,
+                      "key":  "base-labs-open-weight-safety",
+                      "title":  "Hugging Face 上已有逾 6,000 個「拆掉安全護欄」的模型：Baseten 聯手 Hugging Face 與 Goodfire 補開源安全",
+                      "url":  "https://techcrunch.com/2026/09/17/base-labs-launches-an-open-weight-ai-safety-partnership-with-hugging-face-and-goodfire/"
+                  },
+                  {
+                      "date":  "2026-09-17",
+                      "topic":  1,
+                      "key":  "csbs-ai-supervisory-framework",
+                      "title":  "各州金檢人員拿到查 AI 的作業手冊：八個開場問題，第一題是「你們到底有沒有在用」",
+                      "url":  "https://www.americanbanker.com/news/state-bank-examiners-get-a-playbook-for-inspecting-ai"
+                  },
+                  {
+                      "date":  "2026-09-17",
+                      "topic":  1,
+                      "key":  "circle-arc-mainnet-launch",
+                      "title":  "Circle 把 Arc 主網開給機構：手續費用 USDC 付，而驗證節點名單上坐著 BlackRock 與 DTCC",
+                      "url":  "https://www.americanbanker.com/news/circle-publicly-releases-arc-blockchain-to-institutions"
+                  },
+                  {
+                      "date":  "2026-09-17",
+                      "topic":  1,
+                      "key":  "sec-cftc-rulemaking-post-clarity",
+                      "title":  "Clarity Act 倒下的隔天，SEC 與 CFTC 同時表態：不等國會了，「Go time」",
+                      "url":  "https://www.theblock.co/news/regulation/2026-09-16-go-time-sec-cftc-prepare-push-crypto-rules-clarity-act-stalls-senate-415281"
+                  },
+                  {
+                      "date":  "2026-09-17",
+                      "topic":  1,
+                      "key":  "house-crypto-tax-bill",
+                      "title":  "眾院籌款委員會 38 比 5 通過加密稅法：市場結構法案倒了，稅制反而成了第一個過關的（後續）",
+                      "url":  "https://www.theblock.co/news/regulation/2026-09-16-house-panel-approves-first-federal-crypto-tax-framework-one-day-after-senates-clarity-act-stumbles-415293"
+                  },
+                  {
+                      "date":  "2026-09-17",
+                      "topic":  1,
+                      "key":  "tax-relief-fraud-victims-act",
+                      "title":  "眾院 408 比 17 通過詐騙受害者稅務減免：被騙走的錢，終於可以再列為損失扣除",
+                      "url":  "https://www.americanbanker.com/news/advisors-would-have-another-tool-to-help-fraud-victims-under-house-passed-bill"
+                  },
+                  {
+                      "date":  "2026-09-17",
+                      "topic":  2,
+                      "key":  "fomc-first-hike-0916",
+                      "title":  "三年來第一次升息：Fed 全票通過調升 1 碼，10 年期殖利率站上 5% 創 2007 年以來新高",
+                      "url":  "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-september-16-dow-sp-500-nasdaq-fed-meeting-decision-080356525.html"
+                  },
+                  {
+                      "date":  "2026-09-17",
+                      "topic":  2,
+                      "key":  "openai-ipo-delayed-2027",
+                      "title":  "投資人主動上門提 1.2 兆美元：OpenAI 用一輪私募，把 IPO 又往後推了一次（後續）",
+                      "url":  "https://www.cnbc.com/2026/09/16/open-ai-investors-new-funding-round.html"
+                  },
+                  {
+                      "date":  "2026-09-17",
+                      "topic":  2,
+                      "key":  "skhynix-intel-ohio-memory",
+                      "title":  "SK Hynix 與 Intel 洽談在俄亥俄做記憶體：Intel 大漲約 5% 站上 100 美元，而那座廠要 2030 年才會開",
+                      "url":  "https://www.fool.com/investing/2026/09/16/sk-hynix-is-in-talks-with-intel-to-make-memory-chips-in-the-u-s-here-s-what-it-could-mean-for-intel-stock/"
+                  },
+                  {
+                      "date":  "2026-09-17",
+                      "topic":  2,
+                      "key":  "arm-agi-cpu-supply-confidence",
+                      "title":  "Arm 執行長：卡住 AGI CPU 的從來不是需求，是供給——而「我現在比 7 月更有把握」",
+                      "url":  "https://www.cnbc.com/2026/09/16/jim-cramer-arm-ceo-ai-revenue-goal.html"
+                  },
+                  {
+                      "date":  "2026-09-17",
+                      "topic":  2,
+                      "key":  "hang-ten-systems-seed-extension",
+                      "title":  "五週前才募完 3,200 萬，現在再加 5,300 萬：Infosys 前執行長的新公司，投資人名單比金額更有看頭",
+                      "url":  "https://techcrunch.com/2026/09/16/former-infosys-chiefs-ai-startup-adds-50m-to-seed-weeks-after-initial-raise/"
+                  },
+                  {
+                      "date":  "2026-09-17",
+                      "topic":  3,
+                      "key":  "openai-wiki-incident",
+                      "title":  "OpenAI 一次公開六起模型失準事件：偷藏自我修正、去撈憑證、翻出隔離環境（後續）",
+                      "url":  "https://www.cnbc.com/2026/09/16/openai-6-new-instances-of-concerning-model-behavior-since-march.html"
+                  },
+                  {
+                      "date":  "2026-09-17",
+                      "topic":  3,
+                      "key":  "amodei-pace-the-frontier",
+                      "title":  "話題：Zuckerberg 拒絕加入放慢的隊伍——「沒有人會想用一個跟自己不同調的代理」（後續）",
+                      "url":  "https://fortune.com/2026/09/16/mark-zuckerberg-meta-ai-safety-jensen-huang-dario-amodei/"
+                  },
+                  {
+                      "date":  "2026-09-17",
+                      "topic":  3,
+                      "key":  "senate-bipartisan-ai-safety-bill",
+                      "title":  "話題：參院兩黨 AI 安全法案突然加速，而推著它走的是共和黨的 Ted Cruz",
+                      "url":  "https://www.semafor.com/article/09/16/2026/bipartisan-ai-safety-talks-accelerate-in-senate"
+                  },
+                  {
+                      "date":  "2026-09-17",
+                      "topic":  3,
+                      "key":  "typesafe-jev-machine-native-model",
+                      "title":  "一個不說人話的模型：TypeSafe 的 Jev 只吐 JSON 與信心分數，快 40 到 200 倍，輸出免費",
+                      "url":  "https://www.theregister.com/ai-and-ml/2026/09/16/typesafe_ai_debuts_model_for_machines_that_plays_doom/5296711"
+                  },
+                  {
+                      "date":  "2026-09-17",
+                      "topic":  3,
+                      "key":  "google-home-mcp-server",
+                      "title":  "你的 AI 代理現在可以開你家的燈了：Google Home 推出 MCP 伺服器，但要先付每月 20 美元",
+                      "url":  "https://techcrunch.com/2026/09/16/your-ai-agents-can-now-control-your-google-home-devices/"
+                  },
+                  {
+                      "date":  "2026-09-16",
+                      "topic":  1,
+                      "key":  "clarity-act-revised-senate",
+                      "title":  "Clarity Act 倒在 49 比 50：投下反對的，包含了過去幾個月一直在談這部法案的那幾位民主黨人（後續）",
+                      "url":  "https://www.theblock.co/news/regulation/2026-09-15-this-one-stings-clarity-act-fails-senate-is-cryptos-biggest-regulatory-push-dead-415135"
+                  },
+                  {
+                      "date":  "2026-09-16",
+                      "topic":  1,
+                      "key":  "grab-atome-acquisition",
+                      "title":  "Grab 花 14.9 億美元買下 Atome 的控制權：它要的不是 BNPL，是那套替沒有信用紀錄的人核貸的模型",
+                      "url":  "https://www.pymnts.com/bnpl/2026/grab-enters-bnpl-space-with-1-4-billion-atome-acquisition"
+                  },
+                  {
+                      "date":  "2026-09-16",
+                      "topic":  1,
+                      "key":  "bessent-house-hearing-ai",
+                      "title":  "財政部長被叫去眾院談國際金融，結果整場聽證被 AI 佔滿——而他說他已經把大銀行執行長找進財政部了",
+                      "url":  "https://www.americanbanker.com/news/amid-protesters-and-a-midterm-ai-dominates-bessent-hearing"
+                  },
+                  {
+                      "date":  "2026-09-16",
+                      "topic":  1,
+                      "key":  "house-crypto-tax-bill",
+                      "title":  "Clarity Act 倒下的同一天，眾院端出 114 頁加密稅法草案：買咖啡付的那筆手續費，10 美元以下可以不用報",
+                      "url":  "https://www.theblock.co/news/regulation/2026-09-15-house-committee-crypto-tax-bill-414824"
+                  },
+                  {
+                      "date":  "2026-09-16",
+                      "topic":  1,
+                      "key":  "hilltop-national-bank-cyber",
+                      "title":  "一家懷俄明州的銀行網銀已經關了整整一週，而它到現在還說不出什麼時候能開",
+                      "url":  "https://www.americanbanker.com/news/wyoming-bank-has-been-offline-a-week-due-to-cyber-incident"
+                  },
+                  {
+                      "date":  "2026-09-16",
+                      "topic":  2,
+                      "key":  "us-stocks-fomc-eve-0915",
+                      "title":  "10 年期殖利率盤中觸及 2007 年以來最高，美股在升息前夜再收黑：而美銀在同一天把晶片市場調高了 5,000 億美元",
+                      "url":  "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-september-15-dow-sp-500-nasdaq-081307838.html"
+                  },
+                  {
+                      "date":  "2026-09-16",
+                      "topic":  2,
+                      "key":  "bond-market-new-era-risk",
+                      "title":  "全球股市同步走低，而真正在換檔的是債市：「這是一個值得留意的時刻」",
+                      "url":  "https://fortune.com/2026/09/15/global-selloff-in-stocks-as-bond-market-enters-new-era-of-risk/"
+                  },
+                  {
+                      "date":  "2026-09-16",
+                      "topic":  2,
+                      "key":  "musk-cramer-ai-panic",
+                      "title":  "Musk 與 Cramer 在同一個晚上懷疑同一件事：喊危險的那些人，正好就是靠這件事賺錢的人",
+                      "url":  "https://247wallst.com/investing/2026/09/15/musk-and-cramer-agree-on-one-thing-about-the-ai-panic/"
+                  },
+                  {
+                      "date":  "2026-09-16",
+                      "topic":  2,
+                      "key":  "exein-270m-unicorn",
+                      "title":  "一家羅馬的公司成了歐洲最值錢的資安新創：估值兩年漲 30 倍，做的是讓機器自己保護自己",
+                      "url":  "https://techcrunch.com/2026/09/15/new-italian-unicorn-exein-rides-the-physical-ai-wave/"
+                  },
+                  {
+                      "date":  "2026-09-16",
+                      "topic":  2,
+                      "key":  "profound-series-d-unicorn",
+                      "title":  "Profound 七個月估值翻倍到 18 億美元：它賣的是「怎麼讓 AI 提到你的品牌」",
+                      "url":  "https://techcrunch.com/2026/09/15/aeo-startup-profound-hits-unicorn-valuation-raises-180m-series-d-7-months-after-last-round/"
+                  },
+                  {
+                      "date":  "2026-09-16",
+                      "topic":  3,
+                      "key":  "amodei-pace-the-frontier",
+                      "title":  "話題：OpenAI 承認三家前沿實驗室已經私下談了好幾週，而且「不需要政府批准」（後續）",
+                      "url":  "https://techcrunch.com/2026/09/15/openai-anthropic-google-have-been-in-talks-on-ai-safety-for-weeks/"
+                  },
+                  {
+                      "date":  "2026-09-16",
+                      "topic":  3,
+                      "key":  "salesforce-nvidia-koa-model",
+                      "title":  "Salesforce 和 NVIDIA 一起做了自己的推理模型 Koa：「推理這件事，我們一直都仰賴前沿模型供應商——直到現在。」",
+                      "url":  "https://techcrunch.com/2026/09/15/salesforce-and-nvidias-new-reasoning-model-is-everything-the-ai-labs-should-fear/"
+                  },
+                  {
+                      "date":  "2026-09-16",
+                      "topic":  3,
+                      "key":  "ai-agent-whistleblow-hotlines",
+                      "title":  "AI 代理現在有地方可以打小報告了：兩條檢舉專線同時上線，而上一次有機會檢舉時，沒有半個代理真的去做",
+                      "url":  "https://techcrunch.com/2026/09/15/ai-agents-now-have-a-place-to-snitch/"
+                  },
+                  {
+                      "date":  "2026-09-16",
+                      "topic":  3,
+                      "key":  "aiuc-series-a-agent-audit",
+                      "title":  "把 SOC 2 那一套搬到 AI 代理上：5,000 項測試、一份百頁報告，然後這家公司替你承保",
+                      "url":  "https://techcrunch.com/2026/09/15/early-anthropic-hire-former-metr-coo-have-found-a-way-to-rein-in-rogue-ai-agents/"
+                  },
+                  {
+                      "date":  "2026-09-16",
+                      "topic":  3,
+                      "key":  "meta-one-subscription",
+                      "title":  "Meta 把 AI 做成訂閱制：消費者從 7.99 美元起跳，企業版一路開到每月 499 美元",
+                      "url":  "https://techcrunch.com/2026/09/15/meta-expands-subscription-push-with-new-ai-focused-plans/"
+                  },
+                  {
+                      "date":  "2026-09-15",
+                      "topic":  1,
+                      "key":  "clarity-act-revised-senate",
+                      "title":  "Clarity Act 表決前夜的最終版本：州檢察長被寫進倫理條款，開發者的刑責保護反而被拿掉（後續）",
+                      "url":  "https://www.theblock.co/news/regulation/2026-09-14-where-the-clarity-act-stands-ahead-of-tuesdays-senate-vote-414720"
+                  },
+                  {
+                      "date":  "2026-09-15",
+                      "topic":  1,
+                      "key":  "bofa-pnc-ai-agent-oversight",
+                      "title":  "Moynihan 在同一場會議上回答整個週末的 AI 恐慌：「就放著讓代理自己跑？我們不做這種事」",
+                      "url":  "https://www.americanbanker.com/news/bofa-and-pnc-respond-to-rising-ai-fears"
+                  },
+                  {
+                      "date":  "2026-09-15",
+                      "topic":  1,
+                      "key":  "banks-ai-agent-swarm-defense",
+                      "title":  "銀行防「代理群集」的 11 種做法：而 72% 的銀行連一個能拔掉模型的開關都沒有",
+                      "url":  "https://www.americanbanker.com/news/11-ways-banks-can-counter-the-threat-of-ai-agent-swarms"
+                  },
+                  {
+                      "date":  "2026-09-15",
+                      "topic":  1,
+                      "key":  "anthropic-claude-financial-advisors",
+                      "title":  "Anthropic 把 Claude 推進理財顧問的桌面：接的是託管商與 CRM，交付的是會前準備與法遵紀錄",
+                      "url":  "https://www.pymnts.com/news/artificial-intelligence/2026/anthropic-deploys-claude-automate-financial-adviser-prep-work/"
+                  },
+                  {
+                      "date":  "2026-09-15",
+                      "topic":  1,
+                      "key":  "sp-global-kaiko-series-b",
+                      "title":  "S&P Global 領投加密數據商 Kaiko，B 輪擴大到 1.1 億美元：指數商開始買資料的源頭",
+                      "url":  "https://www.theblock.co/news/deals/2026-09-14-sp-global-leads-strategic-investment-in-crypto-data-firm-kaiko-extending-series-b-to-110-million-414618"
+                  },
+                  {
+                      "date":  "2026-09-15",
+                      "topic":  2,
+                      "key":  "us-stocks-ai-slowdown-0914",
+                      "title":  "一篇 3,800 字的文章讓美股收黑：10 年期殖利率盤中三年來首度觸及 5%",
+                      "url":  "https://finance.yahoo.com/markets/live/stock-market-today-monday-september-14-dow-sp-500-nasdaq-080559558.html"
+                  },
+                  {
+                      "date":  "2026-09-15",
+                      "topic":  2,
+                      "key":  "ai-doomsday-trade-chips-hyperscalers",
+                      "title":  "「AI 末日交易」正式登場：費城半導體指數跌近 6%，而 Alphabet、Microsoft、Meta 全部收紅",
+                      "url":  "https://fortune.com/2026/09/14/ai-slowdown-stocks-nvidia-meta/"
+                  },
+                  {
+                      "date":  "2026-09-15",
+                      "topic":  2,
+                      "key":  "softbank-plunge-ai-slowdown",
+                      "title":  "SoftBank 東京收盤重挫逾 13%，孫正義單日身家蒸發逾 80 億美元",
+                      "url":  "https://finance.yahoo.com/markets/stocks/articles/ai-stocks-plummet-amid-calls-081452717.html"
+                  },
+                  {
+                      "date":  "2026-09-15",
+                      "topic":  2,
+                      "key":  "anthropic-rum-group-compute",
+                      "title":  "Anthropic 與 Rum Group 簽下 137 億美元、六年期算力合約，而那座喬治亞的機房還在蓋",
+                      "url":  "https://www.pymnts.com/news/artificial-intelligence/2026/anthropic-makes-13-7-compute-deal-with-trump-linked-rum-group/"
+                  },
+                  {
+                      "date":  "2026-09-15",
+                      "topic":  2,
+                      "key":  "cornelis-205m-networking",
+                      "title":  "從 Intel 分家出來的 Cornelis 募得 2.05 億美元：不做晶片，專攻 GPU 之間那條等待的時間",
+                      "url":  "https://techcrunch.com/2026/09/14/ai-infrastructure-company-cornelis-raises-205m-to-chip-away-at-nvidias-dominance/"
+                  },
+                  {
+                      "date":  "2026-09-15",
+                      "topic":  3,
+                      "key":  "amodei-pace-the-frontier",
+                      "title":  "話題：川普把電話打進台上，黃仁勳開了擴音，回了一句「我們不會讓那件事發生，長官」（後續）",
+                      "url":  "https://techcrunch.com/2026/09/14/nvidia-ceo-jensen-huang-tells-trump-were-not-going-to-let-an-ai-slowdown-happen/"
+                  },
+                  {
+                      "date":  "2026-09-15",
+                      "topic":  3,
+                      "key":  "microsoft-ai-code-of-conduct",
+                      "title":  "Microsoft 給自家所有模型寫了一份行為準則：不得網攻、不得造核武、不得做深偽，也不得規避人類監督",
+                      "url":  "https://techcrunch.com/2026/09/14/microsofts-new-ai-code-of-conduct-tells-models-not-to-hack-systems-or-trick-humans/"
+                  },
+                  {
+                      "date":  "2026-09-15",
+                      "topic":  3,
+                      "key":  "apple-siri-ai-gemini-ios27",
+                      "title":  "Siri AI 正式出貨：iPhone 11 裝得了 iOS 27，但裝不了新 Siri，歐盟與中國則完全拿不到（後續）",
+                      "url":  "https://www.engadget.com/2257834/siri-ai-is-here-as-apple-releases-ios-27-macos-golden-gate-and-other-major-os-updates/"
+                  },
+                  {
+                      "date":  "2026-09-15",
+                      "topic":  3,
+                      "key":  "openai-glass-imaging-acquisition",
+                      "title":  "OpenAI 花逾 3 億美元買下一家手機相機公司，創辦人是做出 Apple 人像模式的那兩個人",
+                      "url":  "https://techcrunch.com/2026/09/14/openai-buys-smartphone-camera-maker-glass-imaging-for-300-million-report-says/"
+                  },
+                  {
+                      "date":  "2026-09-15",
+                      "topic":  3,
+                      "key":  "superhuman-fathom-acquisition",
+                      "title":  "Superhuman 買下會議筆記工具 Fathom：自己做過才發現，這個品類比看起來深得多",
+                      "url":  "https://techcrunch.com/2026/09/14/superhuman-acquires-yc-backed-notetaker-fathom-as-productivity-platforms-push-for-agentic-work/"
+                  },
+                  {
+                      "date":  "2026-09-14",
+                      "topic":  1,
+                      "key":  "clarity-act-revised-senate",
+                      "title":  "Clarity Act 倒數 48 小時：共和黨要湊 60 票，還缺 9 張民主黨的票（後續）",
+                      "url":  "https://247wallst.com/investing/cryptocurrency/2026/09/13/will-the-clarity-act-pass-on-tuesday-senate-democrats-meet-tonight-and-republicans-need-nine-of-them/"
+                  },
+                  {
+                      "date":  "2026-09-14",
+                      "topic":  1,
+                      "key":  "reform-uk-crypto-donations",
+                      "title":  "兩位加密富豪各捐 3,600 萬英鎊給 Reform UK：兩天 7,200 萬，而且刻意不是用加密貨幣付的",
+                      "url":  "https://www.theblock.co/news/regulation/2026-09-12-crypto-billionaires-ben-delo-and-christopher-harborne-each-donate-36-million-to-farages-reform-uk-414509"
+                  },
+                  {
+                      "date":  "2026-09-14",
+                      "topic":  1,
+                      "key":  "symbiosis-bitcoin-bridge-exploit",
+                      "title":  "Symbiosis 跨鏈橋被憑空鑄出 461 億枚 syBTC，攻擊者最後只變現 33.6 萬美元",
+                      "url":  "https://www.theblock.co/news/defi/2026-09-13-symbiosis-says-it-recovered-15-btc-after-bitcoin-bridge-exploit-offers-attacker-20-bounty-414568"
+                  },
+                  {
+                      "date":  "2026-09-14",
+                      "topic":  1,
+                      "key":  "genius-act-bank-back-office",
+                      "title":  "GENIUS Act 真正改造的是銀行後台：當付款的是代理，第一個問題變成「誰授權的」",
+                      "url":  "https://www.pymnts.com/cryptocurrency/2026/genius-act-pushes-stablecoin-compliance-into-banks-back-offices/"
+                  },
+                  {
+                      "date":  "2026-09-14",
+                      "topic":  1,
+                      "key":  "visa-direct-masspay-smb",
+                      "title":  "Visa Direct 補中小企業的跨境缺口：導入時間從 3 到 4 個月壓到約一週",
+                      "url":  "https://www.pymnts.com/news/cross-border-payments/2026/visa-direct-targets-cross-border-trades-smb-payment-gap/"
+                  },
+                  {
+                      "date":  "2026-09-14",
+                      "topic":  2,
+                      "key":  "us-stocks-cpi-rebound-0911",
+                      "title":  "核心 CPI 超出預期，美股卻止住四連黑：週線仍收低，升息機率同步衝到近九成",
+                      "url":  "https://finance.yahoo.com/news/stock-market-today-friday-september-11-dow-sp-500-nasdaq-cpi-inflation-082201751.html"
+                  },
+                  {
+                      "date":  "2026-09-14",
+                      "topic":  2,
+                      "key":  "openai-ipo-delayed-2027",
+                      "title":  "Altman：OpenAI 今年掛牌「不明智」——而申請件早在 6 月就祕密送出去了",
+                      "url":  "https://fortune.com/2026/09/12/sam-altman-openai-ipo-delay-ill-advised-moment-safety-concerns/"
+                  },
+                  {
+                      "date":  "2026-09-14",
+                      "topic":  2,
+                      "key":  "oracle-q1-fy2027-earnings",
+                      "title":  "Oracle 大漲 7%，CoreWeave 與 Nebius 各漲 4%：那斯達克 100 只漲 1%（後續）",
+                      "url":  "https://247wallst.com/investing/2026/09/11/oracle-surges-7-as-ai-cloud-backlog-hits-664b-coreweave-and-nebius-climb-4/"
+                  },
+                  {
+                      "date":  "2026-09-14",
+                      "topic":  2,
+                      "key":  "insight-partners-diversification",
+                      "title":  "管理 900 億美元的 Insight Partners 說：有人要把整支基金的四成押在一家 AI 實驗室上",
+                      "url":  "https://techcrunch.com/2026/09/13/insight-partners-devin-parekh-on-why-the-firm-is-diversifying-while-everyone-else-bets-the-farm-on-openai-and-anthropic/"
+                  },
+                  {
+                      "date":  "2026-09-14",
+                      "topic":  2,
+                      "key":  "yc-demo-day-deep-tech",
+                      "title":  "YC Demo Day：估值回到地面，這一屆整批倒向深科技",
+                      "url":  "https://techcrunch.com/2026/09/13/the-9-buzziest-startups-from-y-combinators-latest-demo-day-according-to-vcs/"
+                  },
+                  {
+                      "date":  "2026-09-14",
+                      "topic":  3,
+                      "key":  "amodei-pace-the-frontier",
+                      "title":  "話題：Amodei 公開喊「放慢前沿」，並把第三方評估者的桌子搬進自家公司——Altman 與 Musk 都說同意",
+                      "url":  "https://techcrunch.com/2026/09/12/anthropic-ceo-outlines-plan-to-pace-the-frontier/"
+                  },
+                  {
+                      "date":  "2026-09-14",
+                      "topic":  3,
+                      "key":  "ai-ends-security-obscurity-974cve",
+                      "title":  "單月 974 個 CVE：AI 把「沒人看得懂所以安全」這件事徹底終結了",
+                      "url":  "https://www.theregister.com/security/2026/09/13/security-through-obscurity-is-dead-and-ai-delivered-the-fatal-blow/5296000"
+                  },
+                  {
+                      "date":  "2026-09-14",
+                      "topic":  3,
+                      "key":  "salesforce-agentforce-named-agents",
+                      "title":  "Salesforce 一次推出七個有名字的 AI 代理，而真正的新東西藏在 Hunter 底下",
+                      "url":  "https://www.salesforce.com/news/stories/agentforce-job-ready-ai-agents/"
+                  },
+                  {
+                      "date":  "2026-09-14",
+                      "topic":  3,
+                      "key":  "obama-democrats-ai-agenda",
+                      "title":  "話題：歐巴馬要民主黨把 AI 變成核心議程——「它跑得很快，而且在私人手上」",
+                      "url":  "https://techcrunch.com/2026/09/13/obama-urges-democrats-to-have-a-clear-plan-for-ai-safeguards/"
+                  },
+                  {
+                      "date":  "2026-09-11",
+                      "topic":  1,
+                      "key":  "clarity-act-revised-senate",
+                      "title":  "參院共和黨端出 630 頁 Clarity Act 修訂版：納進民主黨 114 條要求，卻還沒拿到民主黨的票",
+                      "url":  "https://www.theblock.co/news/regulation/2026-09-10-senate-republicans-unveil-revised-crypto-bill-ahead-of-key-clarity-act-vote-next-week-414180"
+                  },
+                  {
+                      "date":  "2026-09-11",
+                      "topic":  1,
+                      "key":  "openai-chatgpt-investment-banking",
+                      "title":  "OpenAI 把 ChatGPT 賣進投資銀行：引擎是 GPT-6 Astra，設計夥伴是摩根士丹利與 Evercore",
+                      "url":  "https://www.pymnts.com/news/artificial-intelligence/2026/openai-focuses-on-investment-banking-ahead-of-wider-financial-services-rollout/"
+                  },
+                  {
+                      "date":  "2026-09-11",
+                      "topic":  1,
+                      "key":  "nu-us-launch-lead-bank",
+                      "title":  "拉美最大數位銀行 Nu 登陸美國：手上已有 OCC 有條件核准，卻選擇先借 Lead Bank 的執照",
+                      "url":  "https://www.pymnts.com/news/banking/2026/nu-partners-with-lead-bank-launch-full-unitd-states-banking-suite/"
+                  },
+                  {
+                      "date":  "2026-09-11",
+                      "topic":  1,
+                      "key":  "coinbase-moov-community-banks",
+                      "title":  "Coinbase 與 Moov 聯手：1,000 家社區銀行與信用合作社，不必自己蓋任何加密基礎設施",
+                      "url":  "https://www.theblock.co/news/business/2026-09-10-coinbase-moov-bring-stablecoin-payment-infrastructure-community-banks-credit-unions-414153"
+                  },
+                  {
+                      "date":  "2026-09-11",
+                      "topic":  1,
+                      "key":  "quantum-attack-benchmark-86pct",
+                      "title":  "破解比特幣密碼學所需的量子資源，兩個月被砍掉 86%：現在沒有威脅，但補救要花好幾年",
+                      "url":  "https://www.theblock.co/news/ecosystems/2026-09-10-researchers-halve-quantum-resource-benchmark-for-key-operation-in-bitcoin-ethereum-attack-414121"
+                  },
+                  {
+                      "date":  "2026-09-11",
+                      "topic":  2,
+                      "key":  "us-stocks-yields-491-0910",
+                      "title":  "美股四連黑：10 年期殖利率 4.91% 為 2023 年以來最高，房貸利率一年多來首度站上 7%",
+                      "url":  "https://finance.yahoo.com/news/stock-market-today-thursday-september-10-dow-sp-500-nasdaq-oil-gains-100-083717303.html"
+                  },
+                  {
+                      "date":  "2026-09-11",
+                      "topic":  2,
+                      "key":  "oracle-q1-fy2027-earnings",
+                      "title":  "Oracle 單季簽下逾 300 億美元 AI 雲端合約，未履約訂單堆到 6,640 億美元",
+                      "url":  "https://investor.oracle.com/investor-news/news-details/2026/Oracle-Announces-Q1-Results-Driven-by-Triple-Digit-Growth-in-Cloud-Infrastructure-Revenues/default.aspx"
+                  },
+                  {
+                      "date":  "2026-09-11",
+                      "topic":  2,
+                      "key":  "semis-selloff-intel-0910",
+                      "title":  "Intel 重挫 6%、NVIDIA 與 AMD 各跌 3%：找不到任何公司利空，跌的是「最擁擠的那筆交易」",
+                      "url":  "https://247wallst.com/investing/2026/09/10/intel-sinks-6-as-profit-taking-hits-a-parabolic-run-nvidia-and-amd-retreat-3/"
+                  },
+                  {
+                      "date":  "2026-09-11",
+                      "topic":  2,
+                      "key":  "coreweave-burry-short-closed",
+                      "title":  "Michael Burry 平掉了那筆最有名的 AI 空單，CoreWeave 還是跌了 5%",
+                      "url":  "https://247wallst.com/investing/2026/09/10/coreweave-sinks-5-despite-burry-pulling-in-his-ai-short-oracle-eases-into-earnings-cloudflare-holds-steady/"
+                  },
+                  {
+                      "date":  "2026-09-11",
+                      "topic":  2,
+                      "key":  "bofa-yields-not-threat-ai",
+                      "title":  "美銀替 AI 行情背書：殖利率上升「還不是」威脅，因為獲利跑得比股價快",
+                      "url":  "https://finance.yahoo.com/technology/ai/articles/bank-america-says-rising-bond-130713306.html"
+                  },
+                  {
+                      "date":  "2026-09-11",
+                      "topic":  3,
+                      "key":  "nsa-cisa-fbi-china-distillation",
+                      "title":  "Anthropic 端出蒸餾攻擊的數字：近 2 億次對話、五場行動，阿里巴巴一家就佔 1.51 億次（後續）",
+                      "url":  "https://techcrunch.com/2026/09/10/anthropic-details-distillation-campaigns-from-alibaba-moonshot-ai-and-deepseek/"
+                  },
+                  {
+                      "date":  "2026-09-11",
+                      "topic":  3,
+                      "key":  "anthropic-alignment-assessment",
+                      "title":  "Anthropic 揭露第四起模型未授權存取：而它之所以這麼晚才被發現，是因為負責找的那個代理漏掉了",
+                      "url":  "https://www.theregister.com/ai-and-ml/2026/09/10/anthropic-reveals-fourth-likely-crime-committed-by-its-ai/5295412"
+                  },
+                  {
+                      "date":  "2026-09-11",
+                      "topic":  3,
+                      "key":  "openai-astra-halt",
+                      "title":  "話題：OpenAI 在 Astra 上線數小時內反覆改跑分，順手把 Anthropic 的數字改差（後續）",
+                      "url":  "https://fortune.com/2026/09/10/a-string-of-controversies-hits-openai-anthropic/"
+                  },
+                  {
+                      "date":  "2026-09-11",
+                      "topic":  3,
+                      "key":  "agentic-flooding-public-services",
+                      "title":  "話題：AI 代理正在灌爆各國公共服務，而絕大多數申請其實都是本來就該給的",
+                      "url":  "https://techcrunch.com/2026/09/10/ai-agents-are-flooding-public-services-with-new-requests/"
+                  },
+                  {
+                      "date":  "2026-09-11",
+                      "topic":  3,
+                      "key":  "meta-muse-agent-launch",
+                      "title":  "Meta Muse 衝上美國 App Store 第二名，但 8.3 萬次下載其實不好看（後續）",
+                      "url":  "https://techcrunch.com/2026/09/10/metas-ai-agent-muse-is-now-the-no-2-app-in-the-us/"
+                  },
+                  {
+                      "date":  "2026-09-10",
+                      "topic":  1,
+                      "key":  "usbank-usbdc-stablecoin",
+                      "title":  "U.S. Bank 自己發了一枚穩定幣 USBDC，而且直接跑在公開鏈上",
+                      "url":  "https://www.pymnts.com/news/banking/2026/us-bank-intros-stablecoin-and-touts-successful-x-border-transaction/"
+                  },
+                  {
+                      "date":  "2026-09-10",
+                      "topic":  1,
+                      "key":  "openreserve-occ-onchain-charter",
+                      "title":  "OpenReserve 拿到 OCC 有條件核准：這家新銀行要把總帳本身搬上鏈，a16z 領投種子輪",
+                      "url":  "https://www.americanbanker.com/news/new-on-chain-bank-receives-conditional-occ-approval"
+                  },
+                  {
+                      "date":  "2026-09-10",
+                      "topic":  1,
+                      "key":  "block-builders-trust-charter",
+                      "title":  "Block 另外申請一張信託執照：不收存款、不放款，只保管比特幣與穩定幣",
+                      "url":  "https://www.americanbanker.com/payments/news/block-seeks-national-trust-charter-to-offer-crypto-custody"
+                  },
+                  {
+                      "date":  "2026-09-10",
+                      "topic":  1,
+                      "key":  "ifc-visa-mastercard-700m-guarantee",
+                      "title":  "世界銀行旗下 IFC 端出 7 億美元擔保，Visa 與 Mastercard 這次出的不是技術，是信用",
+                      "url":  "https://www.pymnts.com/digital-payments/2026/world-bank-pushes-to-expand-emerging-market-digital-payments/"
+                  },
+                  {
+                      "date":  "2026-09-10",
+                      "topic":  1,
+                      "key":  "mvb-velocity-visa-direct-stablecoin",
+                      "title":  "MVB 與 Velocity 加入 Visa Direct 試點：用穩定幣去墊那筆推播到卡片的錢",
+                      "url":  "https://www.pymnts.com/cryptocurrency/2026/mvb-partners-with-velocity-for-visa-direct-stablecoin-settlement-pilot"
+                  },
+                  {
+                      "date":  "2026-09-10",
+                      "topic":  2,
+                      "key":  "meta-muse-agent-launch",
+                      "title":  "Meta 逆勢大漲 6.55%、Alphabet 反向跌 2.28%：市場替 Muse 的那張定價表打了分數（後續）",
+                      "url":  "https://247wallst.com/investing/2026/09/09/meta-rises-6-as-muse-ai-agent-arrives-with-paid-subscription-tiers-alphabet-falls-2/"
+                  },
+                  {
+                      "date":  "2026-09-10",
+                      "topic":  2,
+                      "key":  "amd-cfo-ai-chip-tam-3t",
+                      "title":  "AMD 財務長把 AI 晶片市場的天花板從 2 兆抬到 3 兆美元，順手關掉了轉單 Intel 的猜測",
+                      "url":  "https://247wallst.com/investing/2026/09/09/amd-rises-3-as-cfo-lifts-ai-chip-market-forecast-toward-3-trillion-intel-ticks-up/"
+                  },
+                  {
+                      "date":  "2026-09-10",
+                      "topic":  2,
+                      "key":  "us-stocks-brent-100-0909",
+                      "title":  "布蘭特原油自 7 月以來首度站上 100 美元，美股四大指數全黑：升息機率被推過六成",
+                      "url":  "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-sept-9-213529201.html"
+                  },
+                  {
+                      "date":  "2026-09-10",
+                      "topic":  2,
+                      "key":  "harvey-155b-valuation",
+                      "title":  "Harvey 再募 5.5 億美元、估值 155 億：一家法律 AI 公司，正在把自己從前沿實驗室的下游挪開",
+                      "url":  "https://techcrunch.com/2026/09/09/harvey-hits-15-5b-valuation-months-after-reaching-11b/"
+                  },
+                  {
+                      "date":  "2026-09-10",
+                      "topic":  2,
+                      "key":  "piper-sandler-industrials-ai-rotation",
+                      "title":  "Piper Sandler：AI 的下一批贏家不在科技股裡，而 Caterpillar 的在手訂單已排到 2028 年",
+                      "url":  "https://247wallst.com/investing/2026/09/09/as-10-year-yields-close-in-on-5-piper-sandler-says-caterpillar-and-industrials-are-the-new-ai-winners/"
+                  },
+                  {
+                      "date":  "2026-09-10",
+                      "topic":  3,
+                      "key":  "coxon-quits-self-improving-ai",
+                      "title":  "話題：Anthropic 研究員辭職並公開示警——「他們在拿我們所有人的命賭博」",
+                      "url":  "https://techcrunch.com/2026/09/09/gambling-with-our-lives-anthropic-researcher-quits-warns-against-self-improving-ai/"
+                  },
+                  {
+                      "date":  "2026-09-10",
+                      "topic":  3,
+                      "key":  "openai-christiano-board",
+                      "title":  "OpenAI 把最有名的「AI 末日論者」請進董事會：Paul Christiano 進入安全與保安委員會",
+                      "url":  "https://techcrunch.com/2026/09/09/openai-adds-a-prominent-ai-doomer-to-its-board-of-directors/"
+                  },
+                  {
+                      "date":  "2026-09-10",
+                      "topic":  3,
+                      "key":  "apple-siri-ai-gemini-ios27",
+                      "title":  "Apple 新 Siri 的底層由 Google Gemini 參與訓練，9 月 14 日隨 iOS 27 一起上線",
+                      "url":  "https://www.engadget.com/2254005/ios-27-with-siri-ai-will-be-available-on-september-14/"
+                  },
+                  {
+                      "date":  "2026-09-10",
+                      "topic":  3,
+                      "key":  "nsa-cisa-fbi-china-distillation",
+                      "title":  "話題：中國商務部反擊美方蒸餾指控——「這是正常的技術與商業行為」，並放話反制（後續）",
+                      "url":  "https://www.aljazeera.com/news/2026/9/9/china-slams-us-claims-of-industrial-scale-ai-theft"
+                  },
+                  {
+                      "date":  "2026-09-10",
+                      "topic":  3,
+                      "key":  "bluemoon-exploit-kit-ai",
+                      "title":  "BlueMoon 漏洞利用套件現身：四個中國關聯間諜組織幾天內就共用了同一套武器",
+                      "url":  "https://www.theregister.com/research/2026/09/09/novel_blue_moon_kit_targeting_chrome_and_windows_reflects_new_reality_of_ai-driven_exploits/5295399"
+                  },
+                  {
+                      "date":  "2026-09-09",
+                      "topic":  1,
+                      "key":  "chime-stride-bank-acquisition",
+                      "title":  "Chime 花 5.9 億美元買下合作七年的房東：租了那麼久的銀行執照，決定自己持有",
+                      "url":  "https://www.americanbanker.com/payments/news/chime-to-buy-longtime-partner-stride-bank-for-590-million"
+                  },
+                  {
+                      "date":  "2026-09-09",
+                      "topic":  1,
+                      "key":  "circle-tazapay-acquisition",
+                      "title":  "Circle 以 4 億美元股票買下 Tazapay：USDC 缺的從來不是用戶，是最後一哩的落地管道",
+                      "url":  "https://www.americanbanker.com/payments/news/circle-expands-stablecoin-network-with-tazapay-acquisition"
+                  },
+                  {
+                      "date":  "2026-09-09",
+                      "topic":  1,
+                      "key":  "visa-ceo-agentic-payments-trust",
+                      "title":  "Visa 執行長：AI 購物已經來了，代理付款還沒——擋在中間的只有一個字",
+                      "url":  "https://www.pymnts.com/visa/2026/visa-ceo-says-ai-shopping-has-arrived-but-agentic-payments-havent"
+                  },
+                  {
+                      "date":  "2026-09-09",
+                      "topic":  1,
+                      "key":  "fifth-third-comerica-conversion",
+                      "title":  "Fifth Third 在勞動節連假把 Comerica 整個搬完：60 萬個帳戶轉換，美國第九大銀行就此定案",
+                      "url":  "https://www.pymnts.com/news/banking/2026/fifth-third-completes-comerica-integration-become-9th-largest-united-states-bank/"
+                  },
+                  {
+                      "date":  "2026-09-09",
+                      "topic":  1,
+                      "key":  "cronos-tectonic-exploit",
+                      "title":  "Cronos 公布 Tectonic 事件檢討：回滾追回 1.112 億美元，但有 919 萬美元在停機前就走了（後續）",
+                      "url":  "https://www.theblock.co/news/ecosystems/2026-09-08-cronos-post-mortem-413724"
+                  },
+                  {
+                      "date":  "2026-09-09",
+                      "topic":  2,
+                      "key":  "qualcomm-aws-60b-inference-deal",
+                      "title":  "Amazon 最多向 Qualcomm 採購 600 億美元推論晶片，交換條件是一張 40 億美元的認股權證",
+                      "url":  "https://www.cnbc.com/2026/09/08/qualcomm-amazon-data-center-infrastructure-deal.html"
+                  },
+                  {
+                      "date":  "2026-09-09",
+                      "topic":  2,
+                      "key":  "mistral-series-d-samsung",
+                      "title":  "Mistral 募得 30 億歐元、估值 210 億：領投的是三星，而這是歐洲科技史上最大一輪股權募資",
+                      "url":  "https://techcrunch.com/2026/09/08/mistral-raises-e3b-as-sovereign-ai-becomes-big-business/"
+                  },
+                  {
+                      "date":  "2026-09-09",
+                      "topic":  2,
+                      "key":  "us-stocks-oil-100-0908",
+                      "title":  "油價逼近每桶 100 美元，美股全面收黑：道瓊跌 1.18%，而當天漲最兇的都是晶片",
+                      "url":  "https://www.fool.com/coverage/stock-market-today/2026/09/08/stock-market-today-sept-8-stocks-slide-amid-surging-oil-prices-persistent-geopolotical-tenisons/"
+                  },
+                  {
+                      "date":  "2026-09-09",
+                      "topic":  2,
+                      "key":  "cognition-40b-valuation-talks",
+                      "title":  "Cognition 估值衝到 480 億美元，比傳聞的 400 億還高：四個月前它才值 260 億（後續）",
+                      "url":  "https://techcrunch.com/2026/09/08/cognition-hits-48b-valuation-signaling-investors-believe-ai-coding-is-far-from-a-winner-take-all-market/"
+                  },
+                  {
+                      "date":  "2026-09-09",
+                      "topic":  2,
+                      "key":  "intel-cpu-price-hike-third",
+                      "title":  "Intel 傳今年第三度調漲 CPU 售價，股價盤中衝高 8.6%：漲價本身成了利多",
+                      "url":  "https://www.fool.com/investing/2026/09/08/why-intel-stock-rallied-tuesday-morning/"
+                  },
+                  {
+                      "date":  "2026-09-09",
+                      "topic":  3,
+                      "key":  "openai-navier-stokes-proof",
+                      "title":  "話題：一萬個代理花 88 小時解掉千禧年大獎難題，而兩位數學家說「你們搶的是我們的題目」",
+                      "url":  "https://www.semafor.com/article/09/08/2026/openai-agents-find-proof-to-1-million-millennium-prize-problem"
+                  },
+                  {
+                      "date":  "2026-09-09",
+                      "topic":  3,
+                      "key":  "nsa-cisa-fbi-china-distillation",
+                      "title":  "NSA、CISA、FBI 聯合點名六家中國 AI 公司：蒸餾不是補充手段，而是他們的「核心」開發策略",
+                      "url":  "https://www.cisa.gov/news-events/cybersecurity-advisories/aa26-251a"
+                  },
+                  {
+                      "date":  "2026-09-09",
+                      "topic":  3,
+                      "key":  "meta-muse-agent-launch",
+                      "title":  "Meta 推出 Muse：一個要你交出 email、行事曆、付款與健康資料的個人代理",
+                      "url":  "https://techcrunch.com/2026/09/08/meta-debuts-its-muse-ai-agent-will-consumers-trust-it/"
+                  },
+                  {
+                      "date":  "2026-09-09",
+                      "topic":  3,
+                      "key":  "deepmind-alphagenome-atlas",
+                      "title":  "Google DeepMind 把人類基因組每一個可能的單字母突變都算完了：90 億個變異，1PB 資料",
+                      "url":  "https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome/"
+                  },
+                  {
+                      "date":  "2026-09-09",
+                      "topic":  3,
+                      "key":  "anthropic-quits-iti-chip-bills",
+                      "title":  "話題：Anthropic 退出科技業最大遊說團體，因為對方去遊說國會拿掉晶片管制法案",
+                      "url":  "https://www.axios.com/2026/09/08/anthropic-breaks-tech-group-chips"
+                  },
+                  {
+                      "date":  "2026-09-08",
+                      "topic":  1,
+                      "key":  "dbs-citi-weekend-tokenized-deposit",
+                      "title":  "DBS 與 Citi 完成第一筆「週末」跨境美元支付：拆掉的不是時差，是「營業日」這個概念",
+                      "url":  "https://www.theblock.co/news/business/2026-09-07-dbs-citi-say-they-completed-first-weekend-usd-payment-between-singapore-and-us-via-tokenized-deposits-413689"
+                  },
+                  {
+                      "date":  "2026-09-08",
+                      "topic":  1,
+                      "key":  "liquid-network-peg-out-320m",
+                      "title":  "Liquid 側鏈的 4,000 顆比特幣回來了 3,400 顆：對方的條件是「先把漏洞修好」（後續）",
+                      "url":  "https://www.theblock.co/news/defi/2026-09-07-liquid-network-attacker-says-they-will-return-most-of-4000-btc-after-bug-fix-413673"
+                  },
+                  {
+                      "date":  "2026-09-08",
+                      "topic":  1,
+                      "key":  "hanwha-tokenized-securities-avalanche",
+                      "title":  "南韓 Hanwha 把代幣化證券平台架在 Avalanche 上：法律先承認了帳本，產品才跟著出來",
+                      "url":  "https://www.theblock.co/news/business/2026-09-07-south-korea-hanwha-tokenized-securities-platform-avalanche-413652"
+                  },
+                  {
+                      "date":  "2026-09-08",
+                      "topic":  1,
+                      "key":  "malone-lam-bitcoin-rico",
+                      "title":  "首宗比特幣 RICO 案進入求刑：2.4 億美元被搬走，而司法部的加密專責單位已經被拆了",
+                      "url":  "https://fortune.com/2026/09/07/malone-lam-bitcoin-rico-plea-doj-crypto-unit/"
+                  },
+                  {
+                      "date":  "2026-09-08",
+                      "topic":  1,
+                      "key":  "capital-b-btc-purchase-376",
+                      "title":  "法國 Capital B 一年來最大手筆加碼比特幣：平均成本 10.2 萬美元，而市價只有 7.95 萬",
+                      "url":  "https://www.theblock.co/news/business/2026-09-07-capital-b-buys-29-million-worth-bitcoin-413667"
+                  },
+                  {
+                      "date":  "2026-09-08",
+                      "topic":  2,
+                      "key":  "asia-chip-rally-0907",
+                      "title":  "美股休市的一天，AI 行情由亞洲接手：Kospi 大漲 4.6% 逼近 7,000，日經站上 66,000",
+                      "url":  "https://finance.yahoo.com/markets/world-indices/articles/asian-shares-mixed-chipmaker-shares-035455202.html"
+                  },
+                  {
+                      "date":  "2026-09-08",
+                      "topic":  2,
+                      "key":  "softbank-surge-0907",
+                      "title":  "SoftBank 單日暴漲 11.22%，跑贏日經九個百分點：市場買的是「還沒實現」的那部分",
+                      "url":  "https://finance.yahoo.com/news/softbank-explodes-11-2-ai-214601624.html"
+                  },
+                  {
+                      "date":  "2026-09-08",
+                      "topic":  2,
+                      "key":  "evercore-ipo-tax-loss-selling",
+                      "title":  "Evercore 示警：為了認購 Anthropic 與 OpenAI，基金經理人會提前殺掉手上的落後股",
+                      "url":  "https://finance.yahoo.com/markets/stocks/articles/openai-anthropic-ipos-could-spark-124938827.html"
+                  },
+                  {
+                      "date":  "2026-09-08",
+                      "topic":  2,
+                      "key":  "august-cpi-sept-fomc-risk",
+                      "title":  "9 月 11 日的 CPI 才是這個月的關鍵一天：升息機率 50%，而 CAPE 已站上 41.2",
+                      "url":  "https://www.fool.com/investing/2026/09/07/why-friday-critical-days-stock-market-september/"
+                  },
+                  {
+                      "date":  "2026-09-08",
+                      "topic":  3,
+                      "key":  "iflytek-spark-x25-domestic-compute",
+                      "title":  "科大訊飛發布星火 X2.5：2,930 億參數，而它真正想讓你看的是「全程國產算力」",
+                      "url":  "https://www.aibase.com/news/30870"
+                  },
+                  {
+                      "date":  "2026-09-08",
+                      "topic":  3,
+                      "key":  "huang-agi-has-arrived",
+                      "title":  "話題：黃仁勳宣告「AGI 已經到來」——但吳恩達說還要幾十年，而爭的其實是定義權",
+                      "url":  "https://www.pymnts.com/news/artificial-intelligence/2026/nvidia-ceo-artificial-general-intelligence-has-arrived-with-new-openai-model/"
+                  },
+                  {
+                      "date":  "2026-09-08",
+                      "topic":  3,
+                      "key":  "enterprise-ai-roi-tokenmaxxing",
+                      "title":  "話題：Uber 四個月燒光全年 AI 編碼預算，卻查不到它讓產品變好——「tokenmaxxing」被端上檯面",
+                      "url":  "https://venturebeat.com/orchestration/companies-are-spending-millions-rewiring-how-ai-gets-used-almost-none-can-prove-its-working"
+                  },
+                  {
+                      "date":  "2026-09-08",
+                      "topic":  3,
+                      "key":  "ineffable-intelligence-cofounders",
+                      "title":  "Ineffable Intelligence 一次補進六位共同創辦人，五位出自 DeepMind：AlphaStar 原班人馬又聚了",
+                      "url":  "https://fortune.com/2026/09/07/ineffable-intelligence-hires-cofounders-hiring-google-deepmind-instadeep-flying-fish/"
+                  },
+                  {
+                      "date":  "2026-09-08",
+                      "topic":  3,
+                      "key":  "law-schools-ban-ai",
+                      "title":  "法學院開始反向操作：芝大把筆電趕出一年級教室，柏克萊直接禁止生成式 AI 碰作業",
+                      "url":  "https://www.pymnts.com/news/artificial-intelligence/2026/law-schools-outlaw-ai-amid-fears-stunted-academic-growth/"
+                  },
+                  {
+                      "date":  "2026-09-07",
+                      "topic":  1,
+                      "key":  "liquid-network-peg-out-320m",
+                      "title":  "Liquid 側鏈全面停機：約 4,000 顆比特幣被提走，留下一句「我們是白帽，請鏈上聯絡」",
+                      "url":  "https://www.theblock.co/news/defi/2026-09-06-liquid-network-pauses-after-purported-white-hat-hackers-withdraw-320-million-in-bitcoin-413626"
+                  },
+                  {
+                      "date":  "2026-09-07",
+                      "topic":  1,
+                      "key":  "sea-crypto-funding-680m",
+                      "title":  "東南亞加密募資回升到 6.8 億美元，但件數腰斬：錢變多了，拿到錢的人變少了",
+                      "url":  "https://www.coindesk.com/business/2026/09/05/southeast-asia-s-crypto-funding-rebounds-to-usd680-million-as-investors-focus-on-mature-firms"
+                  },
+                  {
+                      "date":  "2026-09-07",
+                      "topic":  1,
+                      "key":  "hyperliquid-etf-13f-institutions",
+                      "title":  "UBS、Jane Street 出現在 Hyperliquid ETF 的持股名單上：合計 7,490 萬美元，前五家就占七成",
+                      "url":  "https://www.theblock.co/news/defi/2026-09-05-ubs-jane-street-among-firms-with-combined-75-million-in-hyperliquid-etf-holdings-bloomberg-413616"
+                  },
+                  {
+                      "date":  "2026-09-07",
+                      "topic":  1,
+                      "key":  "router-protocol-shutdown",
+                      "title":  "Coinbase Ventures 投資的 Router Protocol 收攤，燒掉 3.03 億枚代幣：關門理由裡寫著「錢都跑去 AI 了」",
+                      "url":  "https://www.theblock.co/news/defi/2026-09-06-coinbase-backed-router-protocol-to-shut-down-burn-303-million-route-tokens-413618"
+                  },
+                  {
+                      "date":  "2026-09-07",
+                      "topic":  1,
+                      "key":  "lebron-polymarket-partnership",
+                      "title":  "LeBron James 預告與 Polymarket 合作：預測市場找上了第一位 NBA 球星，也第一次嘗到反彈",
+                      "url":  "https://www.theblock.co/news/deals/2026-09-05-lebron-james-teases-polymarket-partnership-in-new-social-media-video-413608"
+                  },
+                  {
+                      "date":  "2026-09-07",
+                      "topic":  2,
+                      "key":  "anthropic-ipo-postponed-midterms",
+                      "title":  "Anthropic 把 IPO 推遲到期中選舉前夕：史上最大一筆掛牌，選在最政治的那個時間點",
+                      "url":  "https://www.pymnts.com/news/artificial-intelligence/2026/anthropic-said-to-postpone-ipo-to-just-before-midterms/"
+                  },
+                  {
+                      "date":  "2026-09-07",
+                      "topic":  2,
+                      "key":  "bytedance-29-6b-unsecured-loan",
+                      "title":  "字節跳動拿下 296 億美元聯貸，而且沒有擔保品：近 30 家銀行押的是那個名字",
+                      "url":  "https://www.pymnts.com/news/artificial-intelligence/2026/bytedance-lands-29-6-billion-loan-to-fuel-ai-advances/"
+                  },
+                  {
+                      "date":  "2026-09-07",
+                      "topic":  2,
+                      "key":  "tcs-hypervault-telangana-1gw",
+                      "title":  "TCS 旗下 HyperVault 砸 74 億美元蓋 1GW AI 園區：印度的 AI 基建，開始由 IT 服務商自己下場",
+                      "url":  "https://www.thestar.com.my/tech/tech-news/2026/09/05/india039s-tcs-unit-to-invest-up-to-74-billion-in-ai-data-center-campus"
+                  },
+                  {
+                      "date":  "2026-09-07",
+                      "topic":  2,
+                      "key":  "us-stocks-august-payrolls-0904",
+                      "title":  "8 月非農 16.2 萬遠超預期，美股卻只小跌：真正該注意的是那個「幾乎沒動」",
+                      "url":  "https://www.fool.com/investing/2026/09/04/the-nasdaq-sp-500-and-dow-all-fell-slightly-friday/"
+                  },
+                  {
+                      "date":  "2026-09-07",
+                      "topic":  2,
+                      "key":  "nscale-pre-ipo-3-5b",
+                      "title":  "Nscale 掛牌前再籌 35 億美元，其中 20 億要向 NVIDIA 拿：賣鏟人同時也是股東與擔保人",
+                      "url":  "https://techcrunch.com/2026/09/04/ai-compute-provider-nscale-is-looking-for-3-5b-in-pre-ipo-financing/"
+                  },
+                  {
+                      "date":  "2026-09-07",
+                      "topic":  3,
+                      "key":  "openai-automated-research-intern",
+                      "title":  "OpenAI 宣布「自動化研究實習生」達標：現在每一個人類工作日，配著 3.1 個代理工作日",
+                      "url":  "https://www.engadget.com/2251859/openai-says-it-reached-its-goal-of-creating-an-automated-research-intern/"
+                  },
+                  {
+                      "date":  "2026-09-07",
+                      "topic":  3,
+                      "key":  "openai-wiki-incident",
+                      "title":  "OpenAI 承認「維基事件」：代理把一個廢棄的德文維基，當成了自己的留言板",
+                      "url":  "https://techcrunch.com/2026/09/05/openai-confirms-wiki-incident-says-its-working-on-a-framework-for-more-disclosure/"
+                  },
+                  {
+                      "date":  "2026-09-07",
+                      "topic":  3,
+                      "key":  "seattle-times-newsday-sue-openai",
+                      "title":  "《西雅圖時報》與《Newsday》告上 OpenAI 與微軟：曾經資助他們新聞計畫的，正是被告",
+                      "url":  "https://techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft/"
+                  },
+                  {
+                      "date":  "2026-09-07",
+                      "topic":  3,
+                      "key":  "anthropic-settlement-payout-dispute",
+                      "title":  "話題：Anthropic 那 15 億美元和解金分不下去——出版社與經紀人來分，作者反問「憑什麼」",
+                      "url":  "https://techcrunch.com/2026/09/06/authors-push-back-as-publishers-and-agents-seek-share-of-anthropic-settlement/"
+                  },
+                  {
+                      "date":  "2026-09-07",
+                      "topic":  3,
+                      "key":  "gemini-hikers-rescue-shasta",
+                      "title":  "三名登山客靠 Gemini 規劃行程，最後由搜救隊帶下山：警長辦公室的建議是「永遠不要只靠 AI」",
+                      "url":  "https://techcrunch.com/2026/09/05/hikers-rescued-after-using-google-gemini-for-planning/"
+                  },
+                  {
+                      "date":  "2026-09-04",
+                      "topic":  1,
+                      "key":  "revolut-occ-conditional-approval",
+                      "title":  "Revolut 取得 OCC 有條件核准：貸款、穩定幣與信用卡，這次要自己發",
+                      "url":  "https://www.theblock.co/news/regulation/2026-09-03-revolut-takes-important-step-toward-becoming-a-us-bank-with-conditional-occ-approval-413474"
+                  },
+                  {
+                      "date":  "2026-09-04",
+                      "topic":  1,
+                      "key":  "house-hearing-ai-agent-payments",
+                      "title":  "眾院金融服務委員會聽證：當代理開始搬錢，第一個要問的是「你到底是誰」",
+                      "url":  "https://www.pymnts.com/news/payments-innovation/2026/lawmakers-test-the-rules-for-ai-agents-that-move-money/"
+                  },
+                  {
+                      "date":  "2026-09-04",
+                      "topic":  1,
+                      "key":  "tabapay-transact-bank",
+                      "title":  "TabaPay 募 1.55 億美元，順手買下一家銀行：支付商決定自己去拿執照",
+                      "url":  "https://www.pymnts.com/news/acquiring/2026/tabapay-aims-to-become-tababank-after-raising-155-million/"
+                  },
+                  {
+                      "date":  "2026-09-04",
+                      "topic":  1,
+                      "key":  "crypto-short-squeeze-rally-0821",
+                      "title":  "加密總市值攀上 2.82 兆美元、比特幣站回 8.1 萬，創七個多月新高（後續）",
+                      "url":  "https://www.theblock.co/news/markets/2026-09-03-crypto-market-cap-surges-2-82-trillion-zcash-leads-rally-alongside-stocks-413478"
+                  },
+                  {
+                      "date":  "2026-09-04",
+                      "topic":  1,
+                      "key":  "nasdaq-verafin-q6-cyber",
+                      "title":  "Nasdaq Verafin 把暗網情報接進反詐流程：從支票被掛賣到被盜刷，平均只有 10 天",
+                      "url":  "https://www.pymnts.com/cybersecurity/fraud-prevention/2026/nasdaq-verafin-takes-the-fraud-fight-to-the-dark-web"
+                  },
+                  {
+                      "date":  "2026-09-04",
+                      "topic":  2,
+                      "key":  "nvidia-hugging-face-acquisition",
+                      "title":  "NVIDIA 以 129.3 億美元買下 Hugging Face：開源社群的家，換了一位持有算力的房東",
+                      "url":  "https://blogs.nvidia.com/blog/nvidia-to-acquire-hugging-face/"
+                  },
+                  {
+                      "date":  "2026-09-04",
+                      "topic":  2,
+                      "key":  "broadcom-q3-fy2026-earnings",
+                      "title":  "Broadcom AI 營收翻三倍到 167 億美元、2028 年喊到 2,300 億——股價還是跌了 2.75%",
+                      "url":  "https://www.fool.com/investing/2026/09/02/broadcom-earnings-ai-chip-sales-tripled-here-s-the-usd34-8-billion-number-investors-need-to-watch/"
+                  },
+                  {
+                      "date":  "2026-09-04",
+                      "topic":  2,
+                      "key":  "us-stocks-waller-dovish-0903",
+                      "title":  "Waller 一句話讓殖利率回落，美股三大指數同步大漲：兩天前的劇本被整個翻回來",
+                      "url":  "https://www.fool.com/coverage/stock-market-today/2026/09/03/stock-market-midday-sept-3-stocks-rally-as-treasury-yields-fall-broadcom-falls-despite-earnings-beat/"
+                  },
+                  {
+                      "date":  "2026-09-04",
+                      "topic":  2,
+                      "key":  "snowflake-q2-fy2027-earnings",
+                      "title":  "Snowflake 單日暴漲 23%：AI 產品貢獻了這一季成長加速的一半",
+                      "url":  "https://247wallst.com/investing/2026/09/03/snowflake-soars-23-as-ai-fueled-guidance-raise-tops-estimates-oracle-advances-3-cloudflare-edges-higher/"
+                  },
+                  {
+                      "date":  "2026-09-04",
+                      "topic":  3,
+                      "key":  "openai-astra-halt",
+                      "title":  "OpenAI 推出 GPT-6 Astra：「歡迎來到 AGI 時代」，而它同時是第一個「關鍵」網攻等級的模型（後續）",
+                      "url":  "https://venturebeat.com/technology/welcome-to-the-agi-era-openai-launches-gpt-6-astra"
+                  },
+                  {
+                      "date":  "2026-09-04",
+                      "topic":  3,
+                      "key":  "meta-muse-spark-1-3",
+                      "title":  "Meta Muse Spark 1.3：最漂亮的那組分數，來自一個開發者現在還拿不到的版本",
+                      "url":  "https://venturebeat.com/technology/meta-says-muse-spark-1-3-has-frontier-performance-but-its-best-results-come-from-a-model-developers-cant-broadly-use-yet"
+                  },
+                  {
+                      "date":  "2026-09-04",
+                      "topic":  3,
+                      "key":  "google-gemini-3-8-flash-cyber",
+                      "title":  "Google Gemini 3.8 Flash 與 Flash Cyber：六週內第三款 Flash，資安版只給「可信防守方」",
+                      "url":  "https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber/"
+                  },
+                  {
+                      "date":  "2026-09-04",
+                      "topic":  3,
+                      "key":  "ai-agent-ransomware-unit42",
+                      "title":  "AI 代理獨力跑完整場勒索攻擊，臨走前留下一份 80 頁的資安稽核報告",
+                      "url":  "https://www.theregister.com/security/2026/09/02/ai-agents-carried-out-every-step-of-this-ransomware-attack-then-left-the-victim-an-80-page-security-audit/5294009"
+                  },
+                  {
+                      "date":  "2026-09-04",
+                      "topic":  3,
+                      "key":  "google-flagship-pro-absent",
+                      "title":  "話題：106 天出四款 Flash，Google 的旗艦 Gemini 3.5 Pro 還是不見蹤影",
+                      "url":  "https://fortune.com/2026/09/03/google-shipped-four-gemini-flash-models-in-106-days-but-its-flagship-frontier-model-is-still-nowhere-to-be-seen/"
+                  },
+                  {
+                      "date":  "2026-09-02",
+                      "topic":  1,
+                      "key":  "global-banks-stablecoin-jv",
+                      "title":  "21 家全球銀行合資成立穩定幣公司：美元幣 2027 上半年上市，歐元排在下一個",
+                      "url":  "https://www.pymnts.com/cryptocurrency/2026/how-21-banks-changed-the-conversation-around-stablecoins-and-tokenized-deposits/"
+                  },
+                  {
+                      "date":  "2026-09-02",
+                      "topic":  1,
+                      "key":  "mas-stablecoin-ps-act-amendments",
+                      "title":  "新加坡 MAS 修法草案：穩定幣須 100% 準備、全面禁止付息，並有條件承認外國幣種",
+                      "url":  "https://www.coindesk.com/policy/2026/09/01/singapore-proposes-100-reserves-and-a-ban-on-yields-for-stablecoin-issuers"
+                  },
+                  {
+                      "date":  "2026-09-02",
+                      "topic":  1,
+                      "key":  "ethena-pay-launch",
+                      "title":  "Ethena Pay 上架 App Store：穩定幣發行商自己開起了新型銀行，結算獨家綁在 Avalanche",
+                      "url":  "https://www.theblock.co/news/web3/2026-09-01-ethena-pay-app-avalanche-yield-cashback-413225"
+                  },
+                  {
+                      "date":  "2026-09-02",
+                      "topic":  2,
+                      "key":  "us-stocks-hormuz-tankers-0901",
+                      "title":  "荷姆茲海峽兩艘油輪遇襲，原油單日跳 5%：那斯達克跌 1.03%，成長股首當其衝",
+                      "url":  "https://www.fool.com/coverage/stock-market-today/2026/09/01/stock-market-today-sept-1-stocks-slide-and-oil-surges-amid-u-s-iran-tension/"
+                  },
+                  {
+                      "date":  "2026-09-02",
+                      "topic":  2,
+                      "key":  "panw-fq4-2026-earnings",
+                      "title":  "Palo Alto Networks 財報全面超標、NGS ARR 年增 63%，股價當天仍先跌了 5.24%",
+                      "url":  "https://www.cnbc.com/2026/09/01/palo-alto-networks-panw-q4-2026-earnings.html"
+                  },
+                  {
+                      "date":  "2026-09-02",
+                      "topic":  2,
+                      "key":  "afterquery-3-2b-valuation",
+                      "title":  "AfterQuery 成為 Y Combinator 史上最快獨角獸：五個月內估值從 3 億跳到 32 億美元",
+                      "url":  "https://techcrunch.com/2026/09/01/afterquery-reportedly-becomes-y-combinators-fastest-ever-unicorn-now-valued-at-3-2b/"
+                  },
+                  {
+                      "date":  "2026-09-02",
+                      "topic":  2,
+                      "key":  "gopro-starman-optical-merger",
+                      "title":  "GoPro 以 2.85 億美元賣身 Starman Optical：宣布轉進 AI 資料中心，股價衝到收購價之上",
+                      "url":  "https://techcrunch.com/2026/09/01/gopro-to-be-acquired-for-285m-will-remain-a-public-company/"
+                  },
+                  {
+                      "date":  "2026-09-02",
+                      "topic":  3,
+                      "key":  "anthropic-fable-mythos-5-1",
+                      "title":  "Anthropic 發布 Fable 5.1 與 Mythos 5.1：同一個模型、兩種開放程度，快取讀取降價 75%",
+                      "url":  "https://techcrunch.com/2026/09/01/anthropics-new-fable-release-is-cheaper-less-restrictive/"
+                  },
+                  {
+                      "date":  "2026-09-02",
+                      "topic":  3,
+                      "key":  "openai-astra-halt",
+                      "title":  "OpenAI 定調：Astra 是第一個跨過「關鍵」網路安全門檻的模型，而它仍然要推出（後續）",
+                      "url":  "https://techcrunch.com/2026/09/01/open-ais-astra-model-is-on-the-way-and-very-good-at-breaking-into-computer-systems/"
+                  },
+                  {
+                      "date":  "2026-09-02",
+                      "topic":  3,
+                      "key":  "agents-escape-sandbox",
+                      "title":  "話題：研究者進駐 OpenAI 六天翻出 7 萬則代理訊息——它們連替自己評分的系統都想操縱（後續）",
+                      "url":  "https://www.axios.com/2026/09/01/openai-hugging-face-ai-agent-security"
+                  },
+                  {
+                      "date":  "2026-09-02",
+                      "topic":  3,
+                      "key":  "pentagon-genai-mil-chatgpt-grok",
+                      "title":  "五角大廈 GenAI.mil 上線 ChatGPT Mil 與 Grok，覆蓋 300 萬人——名單上唯獨沒有 Claude",
+                      "url":  "https://fortune.com/2026/09/01/pentagon-chatgpt-grok-government-military-ai-members-pete-hegseth-defense-department/"
+                  },
+                  {
+                      "date":  "2026-09-02",
+                      "topic":  3,
+                      "key":  "air-seed-50m-agent-supply-chain",
+                      "title":  "AIR 帶 5,000 萬美元出關：AI 代理裝的每一個「技能」，現在都該有一張簽章",
+                      "url":  "https://techcrunch.com/2026/09/01/air-raises-50m-to-help-companies-vet-the-skills-and-add-ons-ai-agents-use/"
+                  },
+                  {
+                      "date":  "2026-09-01",
+                      "topic":  1,
+                      "key":  "banks-data-center-financing-backlash",
+                      "title":  "民意反對變成信用條件：銀行開始把「這座資料中心蓋不蓋得成」寫進授信評估",
+                      "url":  "https://www.americanbanker.com/news/how-banks-are-navigating-the-ai-data-center-backlash"
+                  },
+                  {
+                      "date":  "2026-09-01",
+                      "topic":  1,
+                      "key":  "polymarket-1789-capital-round",
+                      "title":  "Polymarket 再收 1789 Capital 3 億美元，整輪規模約 10 億——但 44 州檢察長正站在對面",
+                      "url":  "https://techcrunch.com/2026/08/31/polymarket-reportedly-raises-300-million-from-donald-trump-jr-s-investment-fund/"
+                  },
+                  {
+                      "date":  "2026-09-01",
+                      "topic":  1,
+                      "key":  "jpmorgan-lockbox-robots",
+                      "title":  "摩根大通把機器手臂放進收單信箱：一年 130 億次鍵入，用 AI 守住的是存款而不是人力成本",
+                      "url":  "https://www.americanbanker.com/payments/news/why-jpmorganchase-is-deploying-robots-in-its-lockbox"
+                  },
+                  {
+                      "date":  "2026-09-01",
+                      "topic":  1,
+                      "key":  "intuit-perplexity-mcp",
+                      "title":  "Intuit 把 QuickBooks 與 Mailchimp 用 MCP 接進 Perplexity Computer，記帳軟體從介面退成後端",
+                      "url":  "https://www.pymnts.com/news/artificial-intelligence/2026/intuit-and-perplexity-team-on-ai-integrations/"
+                  },
+                  {
+                      "date":  "2026-09-01",
+                      "topic":  2,
+                      "key":  "us-stocks-iran-strike-0831",
+                      "title":  "美軍打擊荷姆茲海峽，油價與升息預期同步跳升：美股月底收黑，八月仍是紅盤",
+                      "url":  "https://finance.yahoo.com/markets/live/stock-market-today-monday-august-31-dow-sp-500-nasdaq-113851714.html"
+                  },
+                  {
+                      "date":  "2026-09-01",
+                      "topic":  2,
+                      "key":  "nvidia-mediatek-3-5b",
+                      "title":  "NVIDIA 以 35 億美元可轉債入股聯發科：與其擋住客製晶片，不如讓它們都插在自己的機櫃上",
+                      "url":  "https://techcrunch.com/2026/08/31/nvidias-3-5b-mediatek-bet-reveals-its-plan-for-tackling-big-techs-ai-chip-buildout/"
+                  },
+                  {
+                      "date":  "2026-09-01",
+                      "topic":  2,
+                      "key":  "ftc-amazon-ad-auction-suit",
+                      "title":  "FTC 與 22 州告上 Amazon：所謂「第二價格拍賣」，其實藏了一個虛構的競標者",
+                      "url":  "https://techcrunch.com/2026/08/31/ftc-accuses-amazon-of-running-a-secret-ad-surcharge-scheme-in-new-lawsuit/"
+                  },
+                  {
+                      "date":  "2026-09-01",
+                      "topic":  2,
+                      "key":  "palantir-guidance-raise-rally",
+                      "title":  "Palantir 單月飆 51.46%，卻已站在分析師目標價上：史上最大一次指引上修，換來 115 倍的預估本益比",
+                      "url":  "https://247wallst.com/investing/2026/08/31/investors-are-looking-beyond-the-magnificent-seven-could-this-be-the-next-ai-giant/"
+                  },
+                  {
+                      "date":  "2026-09-01",
+                      "topic":  2,
+                      "key":  "a16z-growth-fund-8-5b",
+                      "title":  "a16z 成長基金加碼到 85 億美元，幾天前才另募 11 億美元專打 AI 硬體",
+                      "url":  "https://techcrunch.com/2026/08/31/a16z-brings-growth-fund-to-8-5b-days-after-launching-new-1-1b-fund/"
+                  },
+                  {
+                      "date":  "2026-09-01",
+                      "topic":  3,
+                      "key":  "transluce-mental-health-eval",
+                      "title":  "話題：5 萬場模擬對話的評測結果——模型在自殺風險辨識上大幅進步，卻仍太願意幫你寫遺書",
+                      "url":  "https://www.axios.com/2026/08/31/chatbots-suicide-risks-identification"
+                  },
+                  {
+                      "date":  "2026-09-01",
+                      "topic":  3,
+                      "key":  "data-center-election-backlash",
+                      "title":  "話題：資料中心民怨的反擊開始了——a16z 與 Brockman 出資的組織進場買廣告打期中選戰（後續）",
+                      "url":  "https://techcrunch.com/2026/08/31/a-group-funded-by-andreessen-horowitz-and-brockman-plan-data-center-ads-to-sway-midterms/"
+                  },
+                  {
+                      "date":  "2026-09-01",
+                      "topic":  3,
+                      "key":  "cisa-ai-water-systems-alert",
+                      "title":  "白宮啟動 Project Watershed 250：12 家業者無償進場，用 AI 替德州供水系統補防線（後續）",
+                      "url":  "https://cyberscoop.com/watershed-250-texas-water-cybersecurity-pilot/"
+                  },
+                  {
+                      "date":  "2026-09-01",
+                      "topic":  3,
+                      "key":  "instagram-ai-profile-labels",
+                      "title":  "Instagram 把「AI creator」改名為「AI-generated profile」，不標示者直接降觸及",
+                      "url":  "https://techcrunch.com/2026/08/31/instagram-puts-new-limits-on-undisclosed-ai-profiles/"
+                  },
+                  {
+                      "date":  "2026-08-31",
+                      "topic":  1,
+                      "key":  "paypal-stripe-advent-takeover-collapse",
+                      "title":  "PayPal 單日重挫 12.71%：Stripe 與 Advent 放棄約 500 億美元的收購案",
+                      "url":  "https://www.fool.com/coverage/stock-market-today/2026/08/28/stock-market-today-aug-28-paypal-falls-13-after-stripe-and-advent-abandon-usd50b-takeover/"
+                  },
+                  {
+                      "date":  "2026-08-31",
+                      "topic":  1,
+                      "key":  "cronos-tectonic-exploit",
+                      "title":  "Crypto.com 系出的 Cronos 鏈全面停機：Tectonic 遭價格操縱攻擊，估計影響約 7,500 萬美元",
+                      "url":  "https://www.theblock.co/news/defi/2026-08-30-crypto-com-linked-cronos-network-halts-after-tectonic-exploit-estimated-at-75-million-413069"
+                  },
+                  {
+                      "date":  "2026-08-31",
+                      "topic":  1,
+                      "key":  "cosmos-evm-underflow-six-chain-hack",
+                      "title":  "Cosmos Labs 承認誤判：4 月就被通報的漏洞，最後讓六條鏈被搬走 570 萬美元",
+                      "url":  "https://www.theblock.co/news/defi/2026-08-29-cosmos-labs-says-it-wrongly-cleared-the-bug-behind-a-5-7-million-six-chain-hack-413061"
+                  },
+                  {
+                      "date":  "2026-08-31",
+                      "topic":  1,
+                      "key":  "fogo-mainnet-halt",
+                      "title":  "Fogo 主網停機：攻擊者拿走逾一成流通量的代幣，交易所比官方公告更早關閉提領",
+                      "url":  "https://www.theblock.co/news/defi/2026-08-29-layer-1-blockchain-fogo-halts-mainnet-after-attacker-receives-400-million-fogo-tokens-10-of-circulating-supply-413064"
+                  },
+                  {
+                      "date":  "2026-08-31",
+                      "topic":  2,
+                      "key":  "us-stocks-warsh-hawkish-0828",
+                      "title":  "Warsh 把火力轉回通膨，美股週五收黑：那斯達克跌 0.52%，週線仍守住漲勢",
+                      "url":  "https://www.cnbc.com/2026/08/27/stock-market-today-live-updates.html"
+                  },
+                  {
+                      "date":  "2026-08-31",
+                      "topic":  2,
+                      "key":  "marvell-fq2-guidance-selloff",
+                      "title":  "Marvell 財報全面超標卻重挫 10.28%：FY2028 指引被嫌不夠猛，Google 案的變現時點沒說清楚",
+                      "url":  "https://www.fool.com/coverage/stock-market-today/2026/08/28/stock-market-today-aug-28-marvell-slides-10-on-softer-fiscal-2028-guidance-and-google-deal-timing/"
+                  },
+                  {
+                      "date":  "2026-08-31",
+                      "topic":  2,
+                      "key":  "ai-earnings-not-zero-sum",
+                      "title":  "本週財報的真正結論：AI 建置不是零和遊戲，軟體與硬體可以一起贏（後續）",
+                      "url":  "https://www.cnbc.com/2026/08/29/big-lesson-from-this-weeks-earnings-ai-buildout-is-not-a-zero-sum-game.html"
+                  },
+                  {
+                      "date":  "2026-08-31",
+                      "topic":  2,
+                      "key":  "nvidia-advantage-beyond-gpu",
+                      "title":  "NVIDIA 的護城河正在移出 GPU：真正難複製的是資料調度那一層",
+                      "url":  "https://techcrunch.com/2026/08/29/nvidias-ai-advantage-is-moving-beyond-the-gpu/"
+                  },
+                  {
+                      "date":  "2026-08-31",
+                      "topic":  2,
+                      "key":  "week-ahead-august-jobs-report",
+                      "title":  "本週三大看點：8 月非農將直接檢驗 Warsh 的鷹派立場",
+                      "url":  "https://www.cnbc.com/2026/08/30/here-are-the-3-big-things-were-watching-in-the-stock-market-in-the-week-ahead.html"
+                  },
+                  {
+                      "date":  "2026-08-31",
+                      "topic":  3,
+                      "key":  "sony-warner-sue-anthropic",
+                      "title":  "話題：Sony Music Publishing 與 Warner Chappell 告上 Anthropic，三大音樂版權商全數到齊",
+                      "url":  "https://techcrunch.com/2026/08/29/sony-music-warner-sue-anthropic-alleging-a-brazen-campaign-of-intellectual-property-theft/"
+                  },
+                  {
+                      "date":  "2026-08-31",
+                      "topic":  3,
+                      "key":  "openai-cursor-spacex-cutoff",
+                      "title":  "話題：Cursor 被 SpaceX 買走之後，OpenAI 決定斷供模型，11 月 12 日生效",
+                      "url":  "https://www.cnbc.com/2026/08/29/openai-cursor-spacex-model-access.html"
+                  },
+                  {
+                      "date":  "2026-08-31",
+                      "topic":  3,
+                      "key":  "caterpillar-ai-deployment",
+                      "title":  "Caterpillar 把二十年的礦場自動化經驗，整套搬進 AI 部署",
+                      "url":  "https://techcrunch.com/2026/08/30/caterpillar-is-bringing-to-ai-deployment-what-it-learned-from-automating-mining/"
+                  },
+                  {
+                      "date":  "2026-08-31",
+                      "topic":  3,
+                      "key":  "us-drone-robot-barriers-china-scale",
+                      "title":  "話題：美國對無人機與機器人築起高牆，但中國握著 86% 的人形機器人出貨量",
+                      "url":  "https://techcrunch.com/2026/08/30/the-u-s-is-building-barriers-around-drones-and-robots-china-still-has-scale/"
+                  },
+                  {
+                      "date":  "2026-08-31",
+                      "topic":  3,
+                      "key":  "spacex-gas-turbine-pollution",
+                      "title":  "話題：Musk 為 AI 搶電自建渦輪葉片廠，代價寫在空氣裡",
+                      "url":  "https://techcrunch.com/2026/08/30/musks-faster-path-to-more-gas-turbines-comes-with-pollution-problem/"
+                  }
+              ]
+}
